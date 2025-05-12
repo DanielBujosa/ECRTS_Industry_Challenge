@@ -1,0 +1,2168 @@
+TSN_Stream STR_ES1_ES2_A
+STR_ES1_ES2_A.source = ES1
+STR_ES1_ES2_A.period = 800000
+STR_ES1_ES2_A.minFrameSize = 814
+STR_ES1_ES2_A.maxFrameSize = 1273
+STR_ES1_ES2_A.trafficClass = TC7
+STR_ES1_ES2_A.utility = 7,2
+STR_ES1_ES2_A.path = ES1 SW2 SW1 ES2
+
+TSN_Stream STR_ES1_ES2_B
+STR_ES1_ES2_B.source = ES1
+STR_ES1_ES2_B.period = 200000
+STR_ES1_ES2_B.minFrameSize = 678
+STR_ES1_ES2_B.maxFrameSize = 865
+STR_ES1_ES2_B.trafficClass = TC7
+STR_ES1_ES2_B.utility = 7,3
+STR_ES1_ES2_B.path = ES1 SW2 SW3 SW1 ES2
+
+TSN_Stream STR_ES1_ES2_C
+STR_ES1_ES2_C.source = ES1
+STR_ES1_ES2_C.period = 400000
+STR_ES1_ES2_C.minFrameSize = 560
+STR_ES1_ES2_C.maxFrameSize = 968
+STR_ES1_ES2_C.trafficClass = TC6
+STR_ES1_ES2_C.utility = 6,5
+STR_ES1_ES2_C.path = ES1 SW2 SW3 SW1 ES2
+
+TSN_Stream STR_ES1_ES2_D
+STR_ES1_ES2_D.source = ES1
+STR_ES1_ES2_D.period = 800000
+STR_ES1_ES2_D.minFrameSize = 901
+STR_ES1_ES2_D.maxFrameSize = 1402
+STR_ES1_ES2_D.trafficClass = TC5
+STR_ES1_ES2_D.utility = 5,0
+STR_ES1_ES2_D.path = ES1 SW2 SW1 ES2
+
+TSN_Stream STR_ES1_ES3_A
+STR_ES1_ES3_A.source = ES1
+STR_ES1_ES3_A.period = 3200000
+STR_ES1_ES3_A.minFrameSize = 989
+STR_ES1_ES3_A.maxFrameSize = 1223
+STR_ES1_ES3_A.trafficClass = TC6
+STR_ES1_ES3_A.utility = 6,1
+STR_ES1_ES3_A.path = ES1 SW2 ES3
+
+TSN_Stream STR_ES1_ES3_B
+STR_ES1_ES3_B.source = ES1
+STR_ES1_ES3_B.period = 400000
+STR_ES1_ES3_B.minFrameSize = 458
+STR_ES1_ES3_B.maxFrameSize = 870
+STR_ES1_ES3_B.trafficClass = TC7
+STR_ES1_ES3_B.utility = 7,3
+STR_ES1_ES3_B.path = ES1 SW2 ES3
+
+TSN_Stream STR_ES1_ES3_C
+STR_ES1_ES3_C.source = ES1
+STR_ES1_ES3_C.period = 400000
+STR_ES1_ES3_C.minFrameSize = 998
+STR_ES1_ES3_C.maxFrameSize = 1206
+STR_ES1_ES3_C.trafficClass = TC5
+STR_ES1_ES3_C.utility = 5,8
+STR_ES1_ES3_C.path = ES1 SW2 ES3
+
+TSN_Stream STR_ES1_ES4_A
+STR_ES1_ES4_A.source = ES1
+STR_ES1_ES4_A.period = 400000
+STR_ES1_ES4_A.minFrameSize = 646
+STR_ES1_ES4_A.maxFrameSize = 1128
+STR_ES1_ES4_A.trafficClass = TC6
+STR_ES1_ES4_A.utility = 7,7
+STR_ES1_ES4_A.path = ES1 SW2 SW3 ES4
+
+TSN_Stream STR_ES1_ES4_B
+STR_ES1_ES4_B.source = ES1
+STR_ES1_ES4_B.period = 400000
+STR_ES1_ES4_B.minFrameSize = 1190
+STR_ES1_ES4_B.maxFrameSize = 1324
+STR_ES1_ES4_B.trafficClass = TC7
+STR_ES1_ES4_B.utility = 7,7
+STR_ES1_ES4_B.path = ES1 SW2 SW1 SW3 ES4
+
+TSN_Stream STR_ES1_ES4_C
+STR_ES1_ES4_C.source = ES1
+STR_ES1_ES4_C.period = 400000
+STR_ES1_ES4_C.minFrameSize = 985
+STR_ES1_ES4_C.maxFrameSize = 1312
+STR_ES1_ES4_C.trafficClass = TC5
+STR_ES1_ES4_C.utility = 5,1
+STR_ES1_ES4_C.path = ES1 SW2 SW1 SW3 ES4
+
+TSN_Stream STR_ES1_ES4_D
+STR_ES1_ES4_D.source = ES1
+STR_ES1_ES4_D.period = 1600000
+STR_ES1_ES4_D.minFrameSize = 1290
+STR_ES1_ES4_D.maxFrameSize = 1356
+STR_ES1_ES4_D.trafficClass = TC4
+STR_ES1_ES4_D.utility = 4,2
+STR_ES1_ES4_D.path = ES1 SW2 SW5 SW1 SW3 ES4
+
+TSN_Stream STR_ES1_ES5_A
+STR_ES1_ES5_A.source = ES1
+STR_ES1_ES5_A.period = 400000
+STR_ES1_ES5_A.minFrameSize = 477
+STR_ES1_ES5_A.maxFrameSize = 775
+STR_ES1_ES5_A.trafficClass = TC7
+STR_ES1_ES5_A.utility = 7,5
+STR_ES1_ES5_A.path = ES1 SW2 ES5
+
+TSN_Stream STR_ES1_ES5_B
+STR_ES1_ES5_B.source = ES1
+STR_ES1_ES5_B.period = 1600000
+STR_ES1_ES5_B.minFrameSize = 433
+STR_ES1_ES5_B.maxFrameSize = 856
+STR_ES1_ES5_B.trafficClass = TC5
+STR_ES1_ES5_B.utility = 6,9
+STR_ES1_ES5_B.path = ES1 SW2 ES5
+
+TSN_Stream STR_ES1_ES5_C
+STR_ES1_ES5_C.source = ES1
+STR_ES1_ES5_C.period = 400000
+STR_ES1_ES5_C.minFrameSize = 567
+STR_ES1_ES5_C.maxFrameSize = 789
+STR_ES1_ES5_C.trafficClass = TC7
+STR_ES1_ES5_C.utility = 7,0
+STR_ES1_ES5_C.path = ES1 SW2 ES5
+
+TSN_Stream STR_ES1_ES5_D
+STR_ES1_ES5_D.source = ES1
+STR_ES1_ES5_D.period = 3200000
+STR_ES1_ES5_D.minFrameSize = 1045
+STR_ES1_ES5_D.maxFrameSize = 1234
+STR_ES1_ES5_D.trafficClass = TC5
+STR_ES1_ES5_D.utility = 5,7
+STR_ES1_ES5_D.path = ES1 SW2 ES5
+
+TSN_Stream STR_ES1_ES6_A
+STR_ES1_ES6_A.source = ES1
+STR_ES1_ES6_A.period = 1600000
+STR_ES1_ES6_A.minFrameSize = 456
+STR_ES1_ES6_A.maxFrameSize = 800
+STR_ES1_ES6_A.trafficClass = TC6
+STR_ES1_ES6_A.utility = 7,4
+STR_ES1_ES6_A.path = ES1 SW2 SW3 ES6
+
+TSN_Stream STR_ES1_ES6_B
+STR_ES1_ES6_B.source = ES1
+STR_ES1_ES6_B.period = 400000
+STR_ES1_ES6_B.minFrameSize = 1120
+STR_ES1_ES6_B.maxFrameSize = 1490
+STR_ES1_ES6_B.trafficClass = TC7
+STR_ES1_ES6_B.utility = 7,3
+STR_ES1_ES6_B.path = ES1 SW2 SW1 SW3 ES6
+
+TSN_Stream STR_ES1_ES6_C
+STR_ES1_ES6_C.source = ES1
+STR_ES1_ES6_C.period = 400000
+STR_ES1_ES6_C.minFrameSize = 902
+STR_ES1_ES6_C.maxFrameSize = 1129
+STR_ES1_ES6_C.trafficClass = TC4
+STR_ES1_ES6_C.utility = 4,6
+STR_ES1_ES6_C.path = ES1 SW2 SW3 ES6
+
+TSN_Stream STR_ES1_ES7_A
+STR_ES1_ES7_A.source = ES1
+STR_ES1_ES7_A.period = 800000
+STR_ES1_ES7_A.minFrameSize = 982
+STR_ES1_ES7_A.maxFrameSize = 1013
+STR_ES1_ES7_A.trafficClass = TC5
+STR_ES1_ES7_A.utility = 5,8
+STR_ES1_ES7_A.path = ES1 SW2 SW3 ES7
+
+TSN_Stream STR_ES1_ES7_B
+STR_ES1_ES7_B.source = ES1
+STR_ES1_ES7_B.period = 400000
+STR_ES1_ES7_B.minFrameSize = 348
+STR_ES1_ES7_B.maxFrameSize = 523
+STR_ES1_ES7_B.trafficClass = TC6
+STR_ES1_ES7_B.utility = 6,8
+STR_ES1_ES7_B.path = ES1 SW2 SW1 SW3 ES7
+
+TSN_Stream STR_ES1_ES7_C
+STR_ES1_ES7_C.source = ES1
+STR_ES1_ES7_C.period = 400000
+STR_ES1_ES7_C.minFrameSize = 216
+STR_ES1_ES7_C.maxFrameSize = 467
+STR_ES1_ES7_C.trafficClass = TC5
+STR_ES1_ES7_C.utility = 5,4
+STR_ES1_ES7_C.path = ES1 SW2 SW1 SW3 ES7
+
+TSN_Stream STR_ES1_ES8_A
+STR_ES1_ES8_A.source = ES1
+STR_ES1_ES8_A.period = 400000
+STR_ES1_ES8_A.minFrameSize = 639
+STR_ES1_ES8_A.maxFrameSize = 898
+STR_ES1_ES8_A.trafficClass = TC7
+STR_ES1_ES8_A.utility = 7,9
+STR_ES1_ES8_A.path = ES1 SW2 SW5 ES8
+
+TSN_Stream STR_ES1_ES8_B
+STR_ES1_ES8_B.source = ES1
+STR_ES1_ES8_B.period = 800000
+STR_ES1_ES8_B.minFrameSize = 712
+STR_ES1_ES8_B.maxFrameSize = 956
+STR_ES1_ES8_B.trafficClass = TC5
+STR_ES1_ES8_B.utility = 6,0
+STR_ES1_ES8_B.path = ES1 SW2 SW5 ES8
+
+TSN_Stream STR_ES1_ES8_C
+STR_ES1_ES8_C.source = ES1
+STR_ES1_ES8_C.period = 400000
+STR_ES1_ES8_C.minFrameSize = 938
+STR_ES1_ES8_C.maxFrameSize = 1270
+STR_ES1_ES8_C.trafficClass = TC7
+STR_ES1_ES8_C.utility = 7,8
+STR_ES1_ES8_C.path = ES1 SW2 SW5 ES8
+
+TSN_Stream STR_ES1_ES9_A
+STR_ES1_ES9_A.source = ES1
+STR_ES1_ES9_A.period = 400000
+STR_ES1_ES9_A.minFrameSize = 393
+STR_ES1_ES9_A.maxFrameSize = 537
+STR_ES1_ES9_A.trafficClass = TC5
+STR_ES1_ES9_A.utility = 5,2
+STR_ES1_ES9_A.path = ES1 SW2 SW1 SW4 ES9
+
+TSN_Stream STR_ES1_ES9_B
+STR_ES1_ES9_B.source = ES1
+STR_ES1_ES9_B.period = 400000
+STR_ES1_ES9_B.minFrameSize = 780
+STR_ES1_ES9_B.maxFrameSize = 921
+STR_ES1_ES9_B.trafficClass = TC6
+STR_ES1_ES9_B.utility = 6,8
+STR_ES1_ES9_B.path = ES1 SW2 SW5 SW1 SW4 ES9
+
+TSN_Stream STR_ES2_ES1_A
+STR_ES2_ES1_A.source = ES2
+STR_ES2_ES1_A.period = 800000
+STR_ES2_ES1_A.minFrameSize = 208
+STR_ES2_ES1_A.maxFrameSize = 619
+STR_ES2_ES1_A.trafficClass = TC7
+STR_ES2_ES1_A.utility = 7,2
+STR_ES2_ES1_A.path = ES2 SW1 SW2 ES1
+
+TSN_Stream STR_ES2_ES1_B
+STR_ES2_ES1_B.source = ES2
+STR_ES2_ES1_B.period = 400000
+STR_ES2_ES1_B.minFrameSize = 608
+STR_ES2_ES1_B.maxFrameSize = 1119
+STR_ES2_ES1_B.trafficClass = TC6
+STR_ES2_ES1_B.utility = 6,6
+STR_ES2_ES1_B.path = ES2 SW1 SW2 ES1
+
+TSN_Stream STR_ES2_ES1_C
+STR_ES2_ES1_C.source = ES2
+STR_ES2_ES1_C.period = 400000
+STR_ES2_ES1_C.minFrameSize = 657
+STR_ES2_ES1_C.maxFrameSize = 974
+STR_ES2_ES1_C.trafficClass = TC6
+STR_ES2_ES1_C.utility = 6,1
+STR_ES2_ES1_C.path = ES2 SW1 SW5 SW2 ES1
+
+TSN_Stream STR_ES2_ES4_A
+STR_ES2_ES4_A.source = ES2
+STR_ES2_ES4_A.period = 400000
+STR_ES2_ES4_A.minFrameSize = 930
+STR_ES2_ES4_A.maxFrameSize = 1433
+STR_ES2_ES4_A.trafficClass = TC6
+STR_ES2_ES4_A.utility = 7,8
+STR_ES2_ES4_A.path = ES2 SW1 SW3 ES4
+
+TSN_Stream STR_ES2_ES4_B
+STR_ES2_ES4_B.source = ES2
+STR_ES2_ES4_B.period = 800000
+STR_ES2_ES4_B.minFrameSize = 1256
+STR_ES2_ES4_B.maxFrameSize = 1489
+STR_ES2_ES4_B.trafficClass = TC4
+STR_ES2_ES4_B.utility = 4,2
+STR_ES2_ES4_B.path = ES2 SW1 SW3 ES4
+
+TSN_Stream STR_ES2_ES5_A
+STR_ES2_ES5_A.source = ES2
+STR_ES2_ES5_A.period = 1600000
+STR_ES2_ES5_A.minFrameSize = 989
+STR_ES2_ES5_A.maxFrameSize = 1062
+STR_ES2_ES5_A.trafficClass = TC6
+STR_ES2_ES5_A.utility = 6,4
+STR_ES2_ES5_A.path = ES2 SW1 SW2 ES5
+
+TSN_Stream STR_ES2_ES5_B
+STR_ES2_ES5_B.source = ES2
+STR_ES2_ES5_B.period = 400000
+STR_ES2_ES5_B.minFrameSize = 980
+STR_ES2_ES5_B.maxFrameSize = 1390
+STR_ES2_ES5_B.trafficClass = TC5
+STR_ES2_ES5_B.utility = 6,7
+STR_ES2_ES5_B.path = ES2 SW1 SW5 SW2 ES5
+
+TSN_Stream STR_ES2_ES5_C
+STR_ES2_ES5_C.source = ES2
+STR_ES2_ES5_C.period = 400000
+STR_ES2_ES5_C.minFrameSize = 870
+STR_ES2_ES5_C.maxFrameSize = 1076
+STR_ES2_ES5_C.trafficClass = TC7
+STR_ES2_ES5_C.utility = 7,2
+STR_ES2_ES5_C.path = ES2 SW1 SW3 SW2 ES5
+
+TSN_Stream STR_ES2_ES6_A
+STR_ES2_ES6_A.source = ES2
+STR_ES2_ES6_A.period = 400000
+STR_ES2_ES6_A.minFrameSize = 564
+STR_ES2_ES6_A.maxFrameSize = 642
+STR_ES2_ES6_A.trafficClass = TC6
+STR_ES2_ES6_A.utility = 6,5
+STR_ES2_ES6_A.path = ES2 SW1 SW3 ES6
+
+TSN_Stream STR_ES2_ES6_B
+STR_ES2_ES6_B.source = ES2
+STR_ES2_ES6_B.period = 3200000
+STR_ES2_ES6_B.minFrameSize = 1245
+STR_ES2_ES6_B.maxFrameSize = 1478
+STR_ES2_ES6_B.trafficClass = TC4
+STR_ES2_ES6_B.utility = 4,7
+STR_ES2_ES6_B.path = ES2 SW1 SW3 ES6
+
+TSN_Stream STR_ES2_ES6_C
+STR_ES2_ES6_C.source = ES2
+STR_ES2_ES6_C.period = 400000
+STR_ES2_ES6_C.minFrameSize = 679
+STR_ES2_ES6_C.maxFrameSize = 780
+STR_ES2_ES6_C.trafficClass = TC5
+STR_ES2_ES6_C.utility = 6,2
+STR_ES2_ES6_C.path = ES2 SW1 SW3 ES6
+
+TSN_Stream STR_ES2_ES7_A
+STR_ES2_ES7_A.source = ES2
+STR_ES2_ES7_A.period = 3200000
+STR_ES2_ES7_A.minFrameSize = 683
+STR_ES2_ES7_A.maxFrameSize = 899
+STR_ES2_ES7_A.trafficClass = TC5
+STR_ES2_ES7_A.utility = 5,0
+STR_ES2_ES7_A.path = ES2 SW1 SW3 ES7
+
+TSN_Stream STR_ES2_ES7_B
+STR_ES2_ES7_B.source = ES2
+STR_ES2_ES7_B.period = 400000
+STR_ES2_ES7_B.minFrameSize = 866
+STR_ES2_ES7_B.maxFrameSize = 1099
+STR_ES2_ES7_B.trafficClass = TC6
+STR_ES2_ES7_B.utility = 6,9
+STR_ES2_ES7_B.path = ES2 SW1 SW3 ES7
+
+TSN_Stream STR_ES2_ES9_A
+STR_ES2_ES9_A.source = ES2
+STR_ES2_ES9_A.period = 1600000
+STR_ES2_ES9_A.minFrameSize = 978
+STR_ES2_ES9_A.maxFrameSize = 1034
+STR_ES2_ES9_A.trafficClass = TC4
+STR_ES2_ES9_A.utility = 4,6
+STR_ES2_ES9_A.path = ES2 SW1 SW4 ES9
+
+TSN_Stream STR_ES2_ES9_B
+STR_ES2_ES9_B.source = ES2
+STR_ES2_ES9_B.period = 400000
+STR_ES2_ES9_B.minFrameSize = 466
+STR_ES2_ES9_B.maxFrameSize = 777
+STR_ES2_ES9_B.trafficClass = TC5
+STR_ES2_ES9_B.utility = 6,2
+STR_ES2_ES9_B.path = ES2 SW1 SW4 ES9
+
+TSN_Stream STR_ES3_ES1_A
+STR_ES3_ES1_A.source = ES3
+STR_ES3_ES1_A.period = 400000
+STR_ES3_ES1_A.minFrameSize = 895
+STR_ES3_ES1_A.maxFrameSize = 1084
+STR_ES3_ES1_A.trafficClass = TC6
+STR_ES3_ES1_A.utility = 6,0
+STR_ES3_ES1_A.path = ES3 SW2 ES1
+
+TSN_Stream STR_ES3_ES1_B
+STR_ES3_ES1_B.source = ES3
+STR_ES3_ES1_B.period = 400000
+STR_ES3_ES1_B.minFrameSize = 595
+STR_ES3_ES1_B.maxFrameSize = 679
+STR_ES3_ES1_B.trafficClass = TC5
+STR_ES3_ES1_B.utility = 5,1
+STR_ES3_ES1_B.path = ES3 SW2 ES1
+
+TSN_Stream STR_ES3_ES1_C
+STR_ES3_ES1_C.source = ES3
+STR_ES3_ES1_C.period = 1600000
+STR_ES3_ES1_C.minFrameSize = 970
+STR_ES3_ES1_C.maxFrameSize = 1290
+STR_ES3_ES1_C.trafficClass = TC4
+STR_ES3_ES1_C.utility = 4,4
+STR_ES3_ES1_C.path = ES3 SW2 ES1
+
+TSN_Stream STR_ES3_ES4_A
+STR_ES3_ES4_A.source = ES3
+STR_ES3_ES4_A.period = 400000
+STR_ES3_ES4_A.minFrameSize = 614
+STR_ES3_ES4_A.maxFrameSize = 669
+STR_ES3_ES4_A.trafficClass = TC7
+STR_ES3_ES4_A.utility = 7,0
+STR_ES3_ES4_A.path = ES3 SW2 SW3 ES4
+
+TSN_Stream STR_ES3_ES4_B
+STR_ES3_ES4_B.source = ES3
+STR_ES3_ES4_B.period = 400000
+STR_ES3_ES4_B.minFrameSize = 869
+STR_ES3_ES4_B.maxFrameSize = 1043
+STR_ES3_ES4_B.trafficClass = TC5
+STR_ES3_ES4_B.utility = 5,8
+STR_ES3_ES4_B.path = ES3 SW2 SW3 ES4
+
+TSN_Stream STR_ES3_ES5_A
+STR_ES3_ES5_A.source = ES3
+STR_ES3_ES5_A.period = 400000
+STR_ES3_ES5_A.minFrameSize = 670
+STR_ES3_ES5_A.maxFrameSize = 936
+STR_ES3_ES5_A.trafficClass = TC7
+STR_ES3_ES5_A.utility = 7,9
+STR_ES3_ES5_A.path = ES3 SW2 ES5
+
+TSN_Stream STR_ES3_ES5_B
+STR_ES3_ES5_B.source = ES3
+STR_ES3_ES5_B.period = 800000
+STR_ES3_ES5_B.minFrameSize = 790
+STR_ES3_ES5_B.maxFrameSize = 908
+STR_ES3_ES5_B.trafficClass = TC3
+STR_ES3_ES5_B.utility = 3,4
+STR_ES3_ES5_B.path = ES3 SW2 ES5
+
+TSN_Stream STR_ES3_ES5_C
+STR_ES3_ES5_C.source = ES3
+STR_ES3_ES5_C.period = 400000
+STR_ES3_ES5_C.minFrameSize = 543
+STR_ES3_ES5_C.maxFrameSize = 718
+STR_ES3_ES5_C.trafficClass = TC7
+STR_ES3_ES5_C.utility = 7,0
+STR_ES3_ES5_C.path = ES3 SW2 ES5
+
+TSN_Stream STR_ES3_ES6_A
+STR_ES3_ES6_A.source = ES3
+STR_ES3_ES6_A.period = 800000
+STR_ES3_ES6_A.minFrameSize = 980
+STR_ES3_ES6_A.maxFrameSize = 1287
+STR_ES3_ES6_A.trafficClass = TC6
+STR_ES3_ES6_A.utility = 6,6
+STR_ES3_ES6_A.path = ES3 SW2 SW3 ES6
+
+TSN_Stream STR_ES3_ES6_B
+STR_ES3_ES6_B.source = ES3
+STR_ES3_ES6_B.period = 400000
+STR_ES3_ES6_B.minFrameSize = 541
+STR_ES3_ES6_B.maxFrameSize = 913
+STR_ES3_ES6_B.trafficClass = TC6
+STR_ES3_ES6_B.utility = 6,2
+STR_ES3_ES6_B.path = ES3 SW2 SW3 ES6
+
+TSN_Stream STR_ES3_ES8_A
+STR_ES3_ES8_A.source = ES3
+STR_ES3_ES8_A.period = 800000
+STR_ES3_ES8_A.minFrameSize = 716
+STR_ES3_ES8_A.maxFrameSize = 788
+STR_ES3_ES8_A.trafficClass = TC7
+STR_ES3_ES8_A.utility = 7,5
+STR_ES3_ES8_A.path = ES3 SW2 SW5 ES8
+
+TSN_Stream STR_ES3_ES8_B
+STR_ES3_ES8_B.source = ES3
+STR_ES3_ES8_B.period = 400000
+STR_ES3_ES8_B.minFrameSize = 589
+STR_ES3_ES8_B.maxFrameSize = 956
+STR_ES3_ES8_B.trafficClass = TC6
+STR_ES3_ES8_B.utility = 6,8
+STR_ES3_ES8_B.path = ES3 SW2 SW5 ES8
+
+TSN_Stream STR_ES3_ES8_C
+STR_ES3_ES8_C.source = ES3
+STR_ES3_ES8_C.period = 800000
+STR_ES3_ES8_C.minFrameSize = 985
+STR_ES3_ES8_C.maxFrameSize = 1168
+STR_ES3_ES8_C.trafficClass = TC5
+STR_ES3_ES8_C.utility = 6,0
+STR_ES3_ES8_C.path = ES3 SW2 SW5 ES8
+
+TSN_Stream STR_ES3_ES8_D
+STR_ES3_ES8_D.source = ES3
+STR_ES3_ES8_D.period = 1600000
+STR_ES3_ES8_D.minFrameSize = 1086
+STR_ES3_ES8_D.maxFrameSize = 1475
+STR_ES3_ES8_D.trafficClass = TC4
+STR_ES3_ES8_D.utility = 4,4
+STR_ES3_ES8_D.path = ES3 SW2 SW1 SW5 ES8
+
+TSN_Stream STR_ES3_ES9_A
+STR_ES3_ES9_A.source = ES3
+STR_ES3_ES9_A.period = 400000
+STR_ES3_ES9_A.minFrameSize = 992
+STR_ES3_ES9_A.maxFrameSize = 1191
+STR_ES3_ES9_A.trafficClass = TC5
+STR_ES3_ES9_A.utility = 5,7
+STR_ES3_ES9_A.path = ES3 SW2 SW5 SW4 ES9
+
+TSN_Stream STR_ES3_ES9_B
+STR_ES3_ES9_B.source = ES3
+STR_ES3_ES9_B.period = 400000
+STR_ES3_ES9_B.minFrameSize = 750
+STR_ES3_ES9_B.maxFrameSize = 878
+STR_ES3_ES9_B.trafficClass = TC7
+STR_ES3_ES9_B.utility = 7,9
+STR_ES3_ES9_B.path = ES3 SW2 SW5 SW1 SW4 ES9
+
+TSN_Stream STR_ES3_ES9_C
+STR_ES3_ES9_C.source = ES3
+STR_ES3_ES9_C.period = 400000
+STR_ES3_ES9_C.minFrameSize = 1034
+STR_ES3_ES9_C.maxFrameSize = 1270
+STR_ES3_ES9_C.trafficClass = TC5
+STR_ES3_ES9_C.utility = 6,1
+STR_ES3_ES9_C.path = ES3 SW2 SW5 SW4 ES9
+
+TSN_Stream STR_ES3_ES13_A
+STR_ES3_ES13_A.source = ES3
+STR_ES3_ES13_A.period = 400000
+STR_ES3_ES13_A.minFrameSize = 955
+STR_ES3_ES13_A.maxFrameSize = 1129
+STR_ES3_ES13_A.trafficClass = TC1
+STR_ES3_ES13_A.utility = 1,7
+STR_ES3_ES13_A.path = ES3 SW2 SW3 SW4 ES13
+
+TSN_Stream STR_ES3_ES13_B
+STR_ES3_ES13_B.source = ES3
+STR_ES3_ES13_B.period = 800000
+STR_ES3_ES13_B.minFrameSize = 1258
+STR_ES3_ES13_B.maxFrameSize = 1359
+STR_ES3_ES13_B.trafficClass = TC1
+STR_ES3_ES13_B.utility = 1,7
+STR_ES3_ES13_B.path = ES3 SW2 SW5 SW4 ES13
+
+TSN_Stream STR_ES3_ES13_C
+STR_ES3_ES13_C.source = ES3
+STR_ES3_ES13_C.period = 400000
+STR_ES3_ES13_C.minFrameSize = 851
+STR_ES3_ES13_C.maxFrameSize = 921
+STR_ES3_ES13_C.trafficClass = TC1
+STR_ES3_ES13_C.utility = 1,0
+STR_ES3_ES13_C.path = ES3 SW2 SW5 SW4 ES13
+
+TSN_Stream STR_ES3_ES13_D
+STR_ES3_ES13_D.source = ES3
+STR_ES3_ES13_D.period = 400000
+STR_ES3_ES13_D.minFrameSize = 861
+STR_ES3_ES13_D.maxFrameSize = 997
+STR_ES3_ES13_D.trafficClass = TC1
+STR_ES3_ES13_D.utility = 1,3
+STR_ES3_ES13_D.path = ES3 SW2 SW1 SW5 SW4 ES13
+
+TSN_Stream STR_ES4_ES1_A
+STR_ES4_ES1_A.source = ES4
+STR_ES4_ES1_A.period = 400000
+STR_ES4_ES1_A.minFrameSize = 666
+STR_ES4_ES1_A.maxFrameSize = 790
+STR_ES4_ES1_A.trafficClass = TC6
+STR_ES4_ES1_A.utility = 7,0
+STR_ES4_ES1_A.path = ES4 SW3 SW2 ES1
+
+TSN_Stream STR_ES4_ES1_B
+STR_ES4_ES1_B.source = ES4
+STR_ES4_ES1_B.period = 800000
+STR_ES4_ES1_B.minFrameSize = 1203
+STR_ES4_ES1_B.maxFrameSize = 1468
+STR_ES4_ES1_B.trafficClass = TC5
+STR_ES4_ES1_B.utility = 5,2
+STR_ES4_ES1_B.path = ES4 SW3 SW2 ES1
+
+TSN_Stream STR_ES4_ES1_C
+STR_ES4_ES1_C.source = ES4
+STR_ES4_ES1_C.period = 400000
+STR_ES4_ES1_C.minFrameSize = 879
+STR_ES4_ES1_C.maxFrameSize = 980
+STR_ES4_ES1_C.trafficClass = TC7
+STR_ES4_ES1_C.utility = 7,1
+STR_ES4_ES1_C.path = ES4 SW3 SW4 SW1 SW2 ES1
+
+TSN_Stream STR_ES4_ES2_A
+STR_ES4_ES2_A.source = ES4
+STR_ES4_ES2_A.period = 400000
+STR_ES4_ES2_A.minFrameSize = 424
+STR_ES4_ES2_A.maxFrameSize = 502
+STR_ES4_ES2_A.trafficClass = TC6
+STR_ES4_ES2_A.utility = 7,6
+STR_ES4_ES2_A.path = ES4 SW3 SW1 ES2
+
+TSN_Stream STR_ES4_ES2_B
+STR_ES4_ES2_B.source = ES4
+STR_ES4_ES2_B.period = 400000
+STR_ES4_ES2_B.minFrameSize = 789
+STR_ES4_ES2_B.maxFrameSize = 980
+STR_ES4_ES2_B.trafficClass = TC6
+STR_ES4_ES2_B.utility = 6,4
+STR_ES4_ES2_B.path = ES4 SW3 SW1 ES2
+
+TSN_Stream STR_ES4_ES2_C
+STR_ES4_ES2_C.source = ES4
+STR_ES4_ES2_C.period = 1600000
+STR_ES4_ES2_C.minFrameSize = 1124
+STR_ES4_ES2_C.maxFrameSize = 1280
+STR_ES4_ES2_C.trafficClass = TC5
+STR_ES4_ES2_C.utility = 5,0
+STR_ES4_ES2_C.path = ES4 SW3 SW2 SW1 ES2
+
+TSN_Stream STR_ES4_ES3_A
+STR_ES4_ES3_A.source = ES4
+STR_ES4_ES3_A.period = 400000
+STR_ES4_ES3_A.minFrameSize = 379
+STR_ES4_ES3_A.maxFrameSize = 385
+STR_ES4_ES3_A.trafficClass = TC7
+STR_ES4_ES3_A.utility = 7,9
+STR_ES4_ES3_A.path = ES4 SW3 SW1 SW2 ES3
+
+TSN_Stream STR_ES4_ES3_B
+STR_ES4_ES3_B.source = ES4
+STR_ES4_ES3_B.period = 800000
+STR_ES4_ES3_B.minFrameSize = 450
+STR_ES4_ES3_B.maxFrameSize = 570
+STR_ES4_ES3_B.trafficClass = TC4
+STR_ES4_ES3_B.utility = 5,3
+STR_ES4_ES3_B.path = ES4 SW3 SW1 SW2 ES3
+
+TSN_Stream STR_ES4_ES5_A
+STR_ES4_ES5_A.source = ES4
+STR_ES4_ES5_A.period = 400000
+STR_ES4_ES5_A.minFrameSize = 955
+STR_ES4_ES5_A.maxFrameSize = 1359
+STR_ES4_ES5_A.trafficClass = TC6
+STR_ES4_ES5_A.utility = 6,6
+STR_ES4_ES5_A.path = ES4 SW3 SW1 SW2 ES5
+
+TSN_Stream STR_ES4_ES5_B
+STR_ES4_ES5_B.source = ES4
+STR_ES4_ES5_B.period = 800000
+STR_ES4_ES5_B.minFrameSize = 1290
+STR_ES4_ES5_B.maxFrameSize = 1370
+STR_ES4_ES5_B.trafficClass = TC4
+STR_ES4_ES5_B.utility = 4,1
+STR_ES4_ES5_B.path = ES4 SW3 SW4 SW1 SW2 ES5
+
+TSN_Stream STR_ES4_ES5_C
+STR_ES4_ES5_C.source = ES4
+STR_ES4_ES5_C.period = 400000
+STR_ES4_ES5_C.minFrameSize = 412
+STR_ES4_ES5_C.maxFrameSize = 567
+STR_ES4_ES5_C.trafficClass = TC7
+STR_ES4_ES5_C.utility = 7,7
+STR_ES4_ES5_C.path = ES4 SW3 SW2 ES5
+
+TSN_Stream STR_ES4_ES6_A
+STR_ES4_ES6_A.source = ES4
+STR_ES4_ES6_A.period = 1600000
+STR_ES4_ES6_A.minFrameSize = 940
+STR_ES4_ES6_A.maxFrameSize = 1050
+STR_ES4_ES6_A.trafficClass = TC6
+STR_ES4_ES6_A.utility = 6,9
+STR_ES4_ES6_A.path = ES4 SW3 ES6
+
+TSN_Stream STR_ES4_ES6_B
+STR_ES4_ES6_B.source = ES4
+STR_ES4_ES6_B.period = 6400000
+STR_ES4_ES6_B.minFrameSize = 1280
+STR_ES4_ES6_B.maxFrameSize = 1435
+STR_ES4_ES6_B.trafficClass = TC3
+STR_ES4_ES6_B.utility = 3,2
+STR_ES4_ES6_B.path = ES4 SW3 ES6
+
+TSN_Stream STR_ES4_ES6_C
+STR_ES4_ES6_C.source = ES4
+STR_ES4_ES6_C.period = 400000
+STR_ES4_ES6_C.minFrameSize = 590
+STR_ES4_ES6_C.maxFrameSize = 679
+STR_ES4_ES6_C.trafficClass = TC6
+STR_ES4_ES6_C.utility = 7,3
+STR_ES4_ES6_C.path = ES4 SW3 ES6
+
+TSN_Stream STR_ES4_ES7_A
+STR_ES4_ES7_A.source = ES4
+STR_ES4_ES7_A.period = 400000
+STR_ES4_ES7_A.minFrameSize = 1114
+STR_ES4_ES7_A.maxFrameSize = 1305
+STR_ES4_ES7_A.trafficClass = TC5
+STR_ES4_ES7_A.utility = 5,0
+STR_ES4_ES7_A.path = ES4 SW3 ES7
+
+TSN_Stream STR_ES4_ES7_B
+STR_ES4_ES7_B.source = ES4
+STR_ES4_ES7_B.period = 800000
+STR_ES4_ES7_B.minFrameSize = 780
+STR_ES4_ES7_B.maxFrameSize = 860
+STR_ES4_ES7_B.trafficClass = TC6
+STR_ES4_ES7_B.utility = 6,0
+STR_ES4_ES7_B.path = ES4 SW3 ES7
+
+TSN_Stream STR_ES4_ES9_A
+STR_ES4_ES9_A.source = ES4
+STR_ES4_ES9_A.period = 6400000
+STR_ES4_ES9_A.minFrameSize = 794
+STR_ES4_ES9_A.maxFrameSize = 1197
+STR_ES4_ES9_A.trafficClass = TC2
+STR_ES4_ES9_A.utility = 2,1
+STR_ES4_ES9_A.path = ES4 SW3 SW4 ES9
+
+TSN_Stream STR_ES4_ES9_B
+STR_ES4_ES9_B.source = ES4
+STR_ES4_ES9_B.period = 200000
+STR_ES4_ES9_B.minFrameSize = 780
+STR_ES4_ES9_B.maxFrameSize = 997
+STR_ES4_ES9_B.trafficClass = TC7
+STR_ES4_ES9_B.utility = 7,8
+STR_ES4_ES9_B.path = ES4 SW3 SW4 ES9
+
+TSN_Stream STR_ES4_ES9_C
+STR_ES4_ES9_C.source = ES4
+STR_ES4_ES9_C.period = 400000
+STR_ES4_ES9_C.minFrameSize = 549
+STR_ES4_ES9_C.maxFrameSize = 817
+STR_ES4_ES9_C.trafficClass = TC4
+STR_ES4_ES9_C.utility = 4,9
+STR_ES4_ES9_C.path = ES4 SW3 SW4 ES9
+
+TSN_Stream STR_ES5_ES1_A
+STR_ES5_ES1_A.source = ES5
+STR_ES5_ES1_A.period = 800000
+STR_ES5_ES1_A.minFrameSize = 567
+STR_ES5_ES1_A.maxFrameSize = 1002
+STR_ES5_ES1_A.trafficClass = TC5
+STR_ES5_ES1_A.utility = 5,3
+STR_ES5_ES1_A.path = ES5 SW2 ES1
+
+TSN_Stream STR_ES5_ES1_B
+STR_ES5_ES1_B.source = ES5
+STR_ES5_ES1_B.period = 400000
+STR_ES5_ES1_B.minFrameSize = 209
+STR_ES5_ES1_B.maxFrameSize = 533
+STR_ES5_ES1_B.trafficClass = TC7
+STR_ES5_ES1_B.utility = 7,6
+STR_ES5_ES1_B.path = ES5 SW2 ES1
+
+TSN_Stream STR_ES5_ES1_C
+STR_ES5_ES1_C.source = ES5
+STR_ES5_ES1_C.period = 400000
+STR_ES5_ES1_C.minFrameSize = 566
+STR_ES5_ES1_C.maxFrameSize = 998
+STR_ES5_ES1_C.trafficClass = TC7
+STR_ES5_ES1_C.utility = 7,0
+STR_ES5_ES1_C.path = ES5 SW2 ES1
+
+TSN_Stream STR_ES5_ES2_A
+STR_ES5_ES2_A.source = ES5
+STR_ES5_ES2_A.period = 800000
+STR_ES5_ES2_A.minFrameSize = 1280
+STR_ES5_ES2_A.maxFrameSize = 1470
+STR_ES5_ES2_A.trafficClass = TC4
+STR_ES5_ES2_A.utility = 4,3
+STR_ES5_ES2_A.path = ES5 SW2 SW1 ES2
+
+TSN_Stream STR_ES5_ES2_B
+STR_ES5_ES2_B.source = ES5
+STR_ES5_ES2_B.period = 400000
+STR_ES5_ES2_B.minFrameSize = 443
+STR_ES5_ES2_B.maxFrameSize = 556
+STR_ES5_ES2_B.trafficClass = TC6
+STR_ES5_ES2_B.utility = 6,5
+STR_ES5_ES2_B.path = ES5 SW2 SW3 SW1 ES2
+
+TSN_Stream STR_ES5_ES2_C
+STR_ES5_ES2_C.source = ES5
+STR_ES5_ES2_C.period = 400000
+STR_ES5_ES2_C.minFrameSize = 670
+STR_ES5_ES2_C.maxFrameSize = 780
+STR_ES5_ES2_C.trafficClass = TC5
+STR_ES5_ES2_C.utility = 5,9
+STR_ES5_ES2_C.path = ES5 SW2 SW5 SW1 ES2
+
+TSN_Stream STR_ES5_ES3_A
+STR_ES5_ES3_A.source = ES5
+STR_ES5_ES3_A.period = 200000
+STR_ES5_ES3_A.minFrameSize = 580
+STR_ES5_ES3_A.maxFrameSize = 666
+STR_ES5_ES3_A.trafficClass = TC7
+STR_ES5_ES3_A.utility = 7,2
+STR_ES5_ES3_A.path = ES5 SW2 ES3
+
+TSN_Stream STR_ES5_ES3_B
+STR_ES5_ES3_B.source = ES5
+STR_ES5_ES3_B.period = 1600000
+STR_ES5_ES3_B.minFrameSize = 1057
+STR_ES5_ES3_B.maxFrameSize = 1180
+STR_ES5_ES3_B.trafficClass = TC3
+STR_ES5_ES3_B.utility = 3,8
+STR_ES5_ES3_B.path = ES5 SW2 ES3
+
+TSN_Stream STR_ES5_ES3_C
+STR_ES5_ES3_C.source = ES5
+STR_ES5_ES3_C.period = 400000
+STR_ES5_ES3_C.minFrameSize = 670
+STR_ES5_ES3_C.maxFrameSize = 808
+STR_ES5_ES3_C.trafficClass = TC5
+STR_ES5_ES3_C.utility = 6,5
+STR_ES5_ES3_C.path = ES5 SW2 ES3
+
+TSN_Stream STR_ES5_ES4_A
+STR_ES5_ES4_A.source = ES5
+STR_ES5_ES4_A.period = 400000
+STR_ES5_ES4_A.minFrameSize = 182
+STR_ES5_ES4_A.maxFrameSize = 323
+STR_ES5_ES4_A.trafficClass = TC6
+STR_ES5_ES4_A.utility = 6,9
+STR_ES5_ES4_A.path = ES5 SW2 SW1 SW3 ES4
+
+TSN_Stream STR_ES5_ES4_B
+STR_ES5_ES4_B.source = ES5
+STR_ES5_ES4_B.period = 3200000
+STR_ES5_ES4_B.minFrameSize = 1290
+STR_ES5_ES4_B.maxFrameSize = 1367
+STR_ES5_ES4_B.trafficClass = TC5
+STR_ES5_ES4_B.utility = 5,0
+STR_ES5_ES4_B.path = ES5 SW2 SW3 ES4
+
+TSN_Stream STR_ES5_ES4_C
+STR_ES5_ES4_C.source = ES5
+STR_ES5_ES4_C.period = 400000
+STR_ES5_ES4_C.minFrameSize = 890
+STR_ES5_ES4_C.maxFrameSize = 1035
+STR_ES5_ES4_C.trafficClass = TC7
+STR_ES5_ES4_C.utility = 7,4
+STR_ES5_ES4_C.path = ES5 SW2 SW5 SW4 SW3 ES4
+
+TSN_Stream STR_ES5_ES6_A
+STR_ES5_ES6_A.source = ES5
+STR_ES5_ES6_A.period = 3200000
+STR_ES5_ES6_A.minFrameSize = 789
+STR_ES5_ES6_A.maxFrameSize = 915
+STR_ES5_ES6_A.trafficClass = TC5
+STR_ES5_ES6_A.utility = 6,1
+STR_ES5_ES6_A.path = ES5 SW2 SW1 SW3 ES6
+
+TSN_Stream STR_ES5_ES6_B
+STR_ES5_ES6_B.source = ES5
+STR_ES5_ES6_B.period = 400000
+STR_ES5_ES6_B.minFrameSize = 269
+STR_ES5_ES6_B.maxFrameSize = 350
+STR_ES5_ES6_B.trafficClass = TC7
+STR_ES5_ES6_B.utility = 7,3
+STR_ES5_ES6_B.path = ES5 SW2 SW3 ES6
+
+TSN_Stream STR_ES5_ES6_C
+STR_ES5_ES6_C.source = ES5
+STR_ES5_ES6_C.period = 400000
+STR_ES5_ES6_C.minFrameSize = 701
+STR_ES5_ES6_C.maxFrameSize = 780
+STR_ES5_ES6_C.trafficClass = TC3
+STR_ES5_ES6_C.utility = 3,0
+STR_ES5_ES6_C.path = ES5 SW2 SW5 SW4 SW3 ES6
+
+TSN_Stream STR_ES5_ES6_D
+STR_ES5_ES6_D.source = ES5
+STR_ES5_ES6_D.period = 400000
+STR_ES5_ES6_D.minFrameSize = 589
+STR_ES5_ES6_D.maxFrameSize = 680
+STR_ES5_ES6_D.trafficClass = TC5
+STR_ES5_ES6_D.utility = 5,7
+STR_ES5_ES6_D.path = ES5 SW2 SW5 SW1 SW3 ES6
+
+TSN_Stream STR_ES5_ES7_A
+STR_ES5_ES7_A.source = ES5
+STR_ES5_ES7_A.period = 400000
+STR_ES5_ES7_A.minFrameSize = 672
+STR_ES5_ES7_A.maxFrameSize = 976
+STR_ES5_ES7_A.trafficClass = TC6
+STR_ES5_ES7_A.utility = 6,4
+STR_ES5_ES7_A.path = ES5 SW2 SW3 ES7
+
+TSN_Stream STR_ES5_ES7_B
+STR_ES5_ES7_B.source = ES5
+STR_ES5_ES7_B.period = 1600000
+STR_ES5_ES7_B.minFrameSize = 1290
+STR_ES5_ES7_B.maxFrameSize = 1378
+STR_ES5_ES7_B.trafficClass = TC3
+STR_ES5_ES7_B.utility = 3,1
+STR_ES5_ES7_B.path = ES5 SW2 SW1 SW3 ES7
+
+TSN_Stream STR_ES5_ES8_A
+STR_ES5_ES8_A.source = ES5
+STR_ES5_ES8_A.period = 400000
+STR_ES5_ES8_A.minFrameSize = 271
+STR_ES5_ES8_A.maxFrameSize = 595
+STR_ES5_ES8_A.trafficClass = TC7
+STR_ES5_ES8_A.utility = 7,2
+STR_ES5_ES8_A.path = ES5 SW2 SW5 ES8
+
+TSN_Stream STR_ES5_ES8_B
+STR_ES5_ES8_B.source = ES5
+STR_ES5_ES8_B.period = 6400000
+STR_ES5_ES8_B.minFrameSize = 1413
+STR_ES5_ES8_B.maxFrameSize = 1490
+STR_ES5_ES8_B.trafficClass = TC2
+STR_ES5_ES8_B.utility = 3,1
+STR_ES5_ES8_B.path = ES5 SW2 SW3 SW1 SW5 ES8
+
+TSN_Stream STR_ES5_ES8_C
+STR_ES5_ES8_C.source = ES5
+STR_ES5_ES8_C.period = 400000
+STR_ES5_ES8_C.minFrameSize = 710
+STR_ES5_ES8_C.maxFrameSize = 1050
+STR_ES5_ES8_C.trafficClass = TC6
+STR_ES5_ES8_C.utility = 7,5
+STR_ES5_ES8_C.path = ES5 SW2 SW1 SW5 ES8
+
+TSN_Stream STR_ES5_ES8_D
+STR_ES5_ES8_D.source = ES5
+STR_ES5_ES8_D.period = 400000
+STR_ES5_ES8_D.minFrameSize = 580
+STR_ES5_ES8_D.maxFrameSize = 790
+STR_ES5_ES8_D.trafficClass = TC4
+STR_ES5_ES8_D.utility = 4,5
+STR_ES5_ES8_D.path = ES5 SW2 SW5 ES8
+
+TSN_Stream STR_ES5_ES8_E
+STR_ES5_ES8_E.source = ES5
+STR_ES5_ES8_E.period = 400000
+STR_ES5_ES8_E.minFrameSize = 577
+STR_ES5_ES8_E.maxFrameSize = 755
+STR_ES5_ES8_E.trafficClass = TC5
+STR_ES5_ES8_E.utility = 5,0
+STR_ES5_ES8_E.path = ES5 SW2 SW1 SW5 ES8
+
+TSN_Stream STR_ES5_ES9
+STR_ES5_ES9.source = ES5
+STR_ES5_ES9.period = 400000
+STR_ES5_ES9.minFrameSize = 890
+STR_ES5_ES9.maxFrameSize = 1205
+STR_ES5_ES9.trafficClass = TC5
+STR_ES5_ES9.utility = 6,8
+STR_ES5_ES9.path = ES5 SW2 SW5 SW4 ES9
+
+TSN_Stream STR_ES5_ES13
+STR_ES5_ES13.source = ES5
+STR_ES5_ES13.period = 3200000
+STR_ES5_ES13.minFrameSize = 401
+STR_ES5_ES13.maxFrameSize = 619
+STR_ES5_ES13.trafficClass = TC1
+STR_ES5_ES13.utility = 1,0
+STR_ES5_ES13.path = ES5 SW2 SW3 SW4 ES13
+
+TSN_Stream STR_ES5_ES14_A
+STR_ES5_ES14_A.source = ES5
+STR_ES5_ES14_A.period = 800000
+STR_ES5_ES14_A.minFrameSize = 755
+STR_ES5_ES14_A.maxFrameSize = 995
+STR_ES5_ES14_A.trafficClass = TC2
+STR_ES5_ES14_A.utility = 2,9
+STR_ES5_ES14_A.path = ES5 SW2 SW5 ES14
+
+TSN_Stream STR_ES5_ES14_B
+STR_ES5_ES14_B.source = ES5
+STR_ES5_ES14_B.period = 1600000
+STR_ES5_ES14_B.minFrameSize = 860
+STR_ES5_ES14_B.maxFrameSize = 1080
+STR_ES5_ES14_B.trafficClass = TC1
+STR_ES5_ES14_B.utility = 1,1
+STR_ES5_ES14_B.path = ES5 SW2 SW1 SW5 ES14
+
+TSN_Stream STR_ES6_ES1_A
+STR_ES6_ES1_A.source = ES6
+STR_ES6_ES1_A.period = 800000
+STR_ES6_ES1_A.minFrameSize = 716
+STR_ES6_ES1_A.maxFrameSize = 1128
+STR_ES6_ES1_A.trafficClass = TC5
+STR_ES6_ES1_A.utility = 5,2
+STR_ES6_ES1_A.path = ES6 SW3 SW2 ES1
+
+TSN_Stream STR_ES6_ES1_B
+STR_ES6_ES1_B.source = ES6
+STR_ES6_ES1_B.period = 400000
+STR_ES6_ES1_B.minFrameSize = 582
+STR_ES6_ES1_B.maxFrameSize = 784
+STR_ES6_ES1_B.trafficClass = TC7
+STR_ES6_ES1_B.utility = 7,3
+STR_ES6_ES1_B.path = ES6 SW3 SW1 SW2 ES1
+
+TSN_Stream STR_ES6_ES1_C
+STR_ES6_ES1_C.source = ES6
+STR_ES6_ES1_C.period = 400000
+STR_ES6_ES1_C.minFrameSize = 798
+STR_ES6_ES1_C.maxFrameSize = 956
+STR_ES6_ES1_C.trafficClass = TC5
+STR_ES6_ES1_C.utility = 6,9
+STR_ES6_ES1_C.path = ES6 SW3 SW2 ES1
+
+TSN_Stream STR_ES6_ES2_A
+STR_ES6_ES2_A.source = ES6
+STR_ES6_ES2_A.period = 1600000
+STR_ES6_ES2_A.minFrameSize = 635
+STR_ES6_ES2_A.maxFrameSize = 926
+STR_ES6_ES2_A.trafficClass = TC4
+STR_ES6_ES2_A.utility = 4,6
+STR_ES6_ES2_A.path = ES6 SW3 SW1 ES2
+
+TSN_Stream STR_ES6_ES2_B
+STR_ES6_ES2_B.source = ES6
+STR_ES6_ES2_B.period = 400000
+STR_ES6_ES2_B.minFrameSize = 770
+STR_ES6_ES2_B.maxFrameSize = 830
+STR_ES6_ES2_B.trafficClass = TC6
+STR_ES6_ES2_B.utility = 7,7
+STR_ES6_ES2_B.path = ES6 SW3 SW1 ES2
+
+TSN_Stream STR_ES6_ES3_A
+STR_ES6_ES3_A.source = ES6
+STR_ES6_ES3_A.period = 1600000
+STR_ES6_ES3_A.minFrameSize = 175
+STR_ES6_ES3_A.maxFrameSize = 274
+STR_ES6_ES3_A.trafficClass = TC4
+STR_ES6_ES3_A.utility = 4,7
+STR_ES6_ES3_A.path = ES6 SW3 SW1 SW2 ES3
+
+TSN_Stream STR_ES6_ES3_B
+STR_ES6_ES3_B.source = ES6
+STR_ES6_ES3_B.period = 400000
+STR_ES6_ES3_B.minFrameSize = 517
+STR_ES6_ES3_B.maxFrameSize = 638
+STR_ES6_ES3_B.trafficClass = TC7
+STR_ES6_ES3_B.utility = 7,0
+STR_ES6_ES3_B.path = ES6 SW3 SW2 ES3
+
+TSN_Stream STR_ES6_ES4_A
+STR_ES6_ES4_A.source = ES6
+STR_ES6_ES4_A.period = 1600000
+STR_ES6_ES4_A.minFrameSize = 709
+STR_ES6_ES4_A.maxFrameSize = 819
+STR_ES6_ES4_A.trafficClass = TC5
+STR_ES6_ES4_A.utility = 5,7
+STR_ES6_ES4_A.path = ES6 SW3 ES4
+
+TSN_Stream STR_ES6_ES4_B
+STR_ES6_ES4_B.source = ES6
+STR_ES6_ES4_B.period = 400000
+STR_ES6_ES4_B.minFrameSize = 638
+STR_ES6_ES4_B.maxFrameSize = 869
+STR_ES6_ES4_B.trafficClass = TC6
+STR_ES6_ES4_B.utility = 6,3
+STR_ES6_ES4_B.path = ES6 SW3 ES4
+
+TSN_Stream STR_ES6_ES5_A
+STR_ES6_ES5_A.source = ES6
+STR_ES6_ES5_A.period = 800000
+STR_ES6_ES5_A.minFrameSize = 761
+STR_ES6_ES5_A.maxFrameSize = 937
+STR_ES6_ES5_A.trafficClass = TC4
+STR_ES6_ES5_A.utility = 4,7
+STR_ES6_ES5_A.path = ES6 SW3 SW4 SW5 SW2 ES5
+
+TSN_Stream STR_ES6_ES5_B
+STR_ES6_ES5_B.source = ES6
+STR_ES6_ES5_B.period = 400000
+STR_ES6_ES5_B.minFrameSize = 852
+STR_ES6_ES5_B.maxFrameSize = 1250
+STR_ES6_ES5_B.trafficClass = TC5
+STR_ES6_ES5_B.utility = 5,8
+STR_ES6_ES5_B.path = ES6 SW3 SW2 ES5
+
+TSN_Stream STR_ES6_ES5_C
+STR_ES6_ES5_C.source = ES6
+STR_ES6_ES5_C.period = 400000
+STR_ES6_ES5_C.minFrameSize = 741
+STR_ES6_ES5_C.maxFrameSize = 937
+STR_ES6_ES5_C.trafficClass = TC4
+STR_ES6_ES5_C.utility = 4,2
+STR_ES6_ES5_C.path = ES6 SW3 SW2 ES5
+
+TSN_Stream STR_ES6_ES5_D
+STR_ES6_ES5_D.source = ES6
+STR_ES6_ES5_D.period = 400000
+STR_ES6_ES5_D.minFrameSize = 863
+STR_ES6_ES5_D.maxFrameSize = 987
+STR_ES6_ES5_D.trafficClass = TC3
+STR_ES6_ES5_D.utility = 3,1
+STR_ES6_ES5_D.path = ES6 SW3 SW1 SW2 ES5
+
+TSN_Stream STR_ES6_ES5_E
+STR_ES6_ES5_E.source = ES6
+STR_ES6_ES5_E.period = 200000
+STR_ES6_ES5_E.minFrameSize = 412
+STR_ES6_ES5_E.maxFrameSize = 598
+STR_ES6_ES5_E.trafficClass = TC6
+STR_ES6_ES5_E.utility = 7,0
+STR_ES6_ES5_E.path = ES6 SW3 SW2 ES5
+
+TSN_Stream STR_ES6_ES7
+STR_ES6_ES7.source = ES6
+STR_ES6_ES7.period = 400000
+STR_ES6_ES7.minFrameSize = 833
+STR_ES6_ES7.maxFrameSize = 1043
+STR_ES6_ES7.trafficClass = TC3
+STR_ES6_ES7.utility = 4,3
+STR_ES6_ES7.path = ES6 SW3 ES7
+
+TSN_Stream STR_ES6_ES9_A
+STR_ES6_ES9_A.source = ES6
+STR_ES6_ES9_A.period = 400000
+STR_ES6_ES9_A.minFrameSize = 728
+STR_ES6_ES9_A.maxFrameSize = 983
+STR_ES6_ES9_A.trafficClass = TC4
+STR_ES6_ES9_A.utility = 4,8
+STR_ES6_ES9_A.path = ES6 SW3 SW4 ES9
+
+TSN_Stream STR_ES6_ES9_B
+STR_ES6_ES9_B.source = ES6
+STR_ES6_ES9_B.period = 200000
+STR_ES6_ES9_B.minFrameSize = 657
+STR_ES6_ES9_B.maxFrameSize = 746
+STR_ES6_ES9_B.trafficClass = TC7
+STR_ES6_ES9_B.utility = 7,2
+STR_ES6_ES9_B.path = ES6 SW3 SW4 ES9
+
+TSN_Stream STR_ES6_ES9_C
+STR_ES6_ES9_C.source = ES6
+STR_ES6_ES9_C.period = 400000
+STR_ES6_ES9_C.minFrameSize = 667
+STR_ES6_ES9_C.maxFrameSize = 880
+STR_ES6_ES9_C.trafficClass = TC4
+STR_ES6_ES9_C.utility = 4,1
+STR_ES6_ES9_C.path = ES6 SW3 SW4 ES9
+
+TSN_Stream STR_ES6_ES14_A
+STR_ES6_ES14_A.source = ES6
+STR_ES6_ES14_A.period = 400000
+STR_ES6_ES14_A.minFrameSize = 193
+STR_ES6_ES14_A.maxFrameSize = 457
+STR_ES6_ES14_A.trafficClass = TC2
+STR_ES6_ES14_A.utility = 2,0
+STR_ES6_ES14_A.path = ES6 SW3 SW1 SW5 ES14
+
+TSN_Stream STR_ES6_ES14_B
+STR_ES6_ES14_B.source = ES6
+STR_ES6_ES14_B.period = 800000
+STR_ES6_ES14_B.minFrameSize = 673
+STR_ES6_ES14_B.maxFrameSize = 713
+STR_ES6_ES14_B.trafficClass = TC1
+STR_ES6_ES14_B.utility = 1,0
+STR_ES6_ES14_B.path = ES6 SW3 SW1 SW5 ES14
+
+TSN_Stream STR_ES7_ES1
+STR_ES7_ES1.source = ES7
+STR_ES7_ES1.period = 800000
+STR_ES7_ES1.minFrameSize = 454
+STR_ES7_ES1.maxFrameSize = 741
+STR_ES7_ES1.trafficClass = TC4
+STR_ES7_ES1.utility = 3,8
+STR_ES7_ES1.path = ES7 SW3 SW2 ES1
+
+TSN_Stream STR_ES7_ES2
+STR_ES7_ES2.source = ES7
+STR_ES7_ES2.period = 1600000
+STR_ES7_ES2.minFrameSize = 459
+STR_ES7_ES2.maxFrameSize = 682
+STR_ES7_ES2.trafficClass = TC3
+STR_ES7_ES2.utility = 3,4
+STR_ES7_ES2.path = ES7 SW3 SW1 ES2
+
+TSN_Stream STR_ES7_ES3
+STR_ES7_ES3.source = ES7
+STR_ES7_ES3.period = 800000
+STR_ES7_ES3.minFrameSize = 399
+STR_ES7_ES3.maxFrameSize = 904
+STR_ES7_ES3.trafficClass = TC4
+STR_ES7_ES3.utility = 5,2
+STR_ES7_ES3.path = ES7 SW3 SW2 ES3
+
+TSN_Stream STR_ES7_ES4
+STR_ES7_ES4.source = ES7
+STR_ES7_ES4.period = 400000
+STR_ES7_ES4.minFrameSize = 351
+STR_ES7_ES4.maxFrameSize = 648
+STR_ES7_ES4.trafficClass = TC3
+STR_ES7_ES4.utility = 3,7
+STR_ES7_ES4.path = ES7 SW3 ES4
+
+TSN_Stream STR_ES7_ES5
+STR_ES7_ES5.source = ES7
+STR_ES7_ES5.period = 400000
+STR_ES7_ES5.minFrameSize = 226
+STR_ES7_ES5.maxFrameSize = 732
+STR_ES7_ES5.trafficClass = TC5
+STR_ES7_ES5.utility = 5,7
+STR_ES7_ES5.path = ES7 SW3 SW2 ES5
+
+TSN_Stream STR_ES7_ES6
+STR_ES7_ES6.source = ES7
+STR_ES7_ES6.period = 800000
+STR_ES7_ES6.minFrameSize = 501
+STR_ES7_ES6.maxFrameSize = 547
+STR_ES7_ES6.trafficClass = TC3
+STR_ES7_ES6.utility = 3,9
+STR_ES7_ES6.path = ES7 SW3 ES6
+
+TSN_Stream STR_ES7_ES8_A
+STR_ES7_ES8_A.source = ES7
+STR_ES7_ES8_A.period = 400000
+STR_ES7_ES8_A.minFrameSize = 845
+STR_ES7_ES8_A.maxFrameSize = 1220
+STR_ES7_ES8_A.trafficClass = TC4
+STR_ES7_ES8_A.utility = 4,0
+STR_ES7_ES8_A.path = ES7 SW3 SW1 SW5 ES8
+
+TSN_Stream STR_ES7_ES8_B
+STR_ES7_ES8_B.source = ES7
+STR_ES7_ES8_B.period = 800000
+STR_ES7_ES8_B.minFrameSize = 678
+STR_ES7_ES8_B.maxFrameSize = 878
+STR_ES7_ES8_B.trafficClass = TC5
+STR_ES7_ES8_B.utility = 5,2
+STR_ES7_ES8_B.path = ES7 SW3 SW4 SW5 ES8
+
+TSN_Stream STR_ES7_ES8_C
+STR_ES7_ES8_C.source = ES7
+STR_ES7_ES8_C.period = 200000
+STR_ES7_ES8_C.minFrameSize = 765
+STR_ES7_ES8_C.maxFrameSize = 941
+STR_ES7_ES8_C.trafficClass = TC6
+STR_ES7_ES8_C.utility = 6,1
+STR_ES7_ES8_C.path = ES7 SW3 SW4 SW5 ES8
+
+TSN_Stream STR_ES7_ES8_D
+STR_ES7_ES8_D.source = ES7
+STR_ES7_ES8_D.period = 400000
+STR_ES7_ES8_D.minFrameSize = 656
+STR_ES7_ES8_D.maxFrameSize = 913
+STR_ES7_ES8_D.trafficClass = TC4
+STR_ES7_ES8_D.utility = 4,5
+STR_ES7_ES8_D.path = ES7 SW3 SW1 SW5 ES8
+
+TSN_Stream STR_ES7_ES8_E
+STR_ES7_ES8_E.source = ES7
+STR_ES7_ES8_E.period = 3200000
+STR_ES7_ES8_E.minFrameSize = 1019
+STR_ES7_ES8_E.maxFrameSize = 1420
+STR_ES7_ES8_E.trafficClass = TC5
+STR_ES7_ES8_E.utility = 6,8
+STR_ES7_ES8_E.path = ES7 SW3 SW2 SW1 SW5 ES8
+
+TSN_Stream STR_ES7_ES9_A
+STR_ES7_ES9_A.source = ES7
+STR_ES7_ES9_A.period = 1600000
+STR_ES7_ES9_A.minFrameSize = 632
+STR_ES7_ES9_A.maxFrameSize = 701
+STR_ES7_ES9_A.trafficClass = TC3
+STR_ES7_ES9_A.utility = 3,2
+STR_ES7_ES9_A.path = ES7 SW3 SW1 SW4 ES9
+
+TSN_Stream STR_ES7_ES9_B
+STR_ES7_ES9_B.source = ES7
+STR_ES7_ES9_B.period = 400000
+STR_ES7_ES9_B.minFrameSize = 899
+STR_ES7_ES9_B.maxFrameSize = 955
+STR_ES7_ES9_B.trafficClass = TC5
+STR_ES7_ES9_B.utility = 5,9
+STR_ES7_ES9_B.path = ES7 SW3 SW4 ES9
+
+TSN_Stream STR_ES7_ES9_C
+STR_ES7_ES9_C.source = ES7
+STR_ES7_ES9_C.period = 400000
+STR_ES7_ES9_C.minFrameSize = 412
+STR_ES7_ES9_C.maxFrameSize = 527
+STR_ES7_ES9_C.trafficClass = TC4
+STR_ES7_ES9_C.utility = 5,0
+STR_ES7_ES9_C.path = ES7 SW3 SW4 ES9
+
+TSN_Stream STR_ES7_ES10
+STR_ES7_ES10.source = ES7
+STR_ES7_ES10.period = 400000
+STR_ES7_ES10.minFrameSize = 372
+STR_ES7_ES10.maxFrameSize = 707
+STR_ES7_ES10.trafficClass = TC1
+STR_ES7_ES10.utility = 1,1
+STR_ES7_ES10.path = ES7 SW3 SW1 ES10
+
+TSN_Stream STR_ES7_ES11_A
+STR_ES7_ES11_A.source = ES7
+STR_ES7_ES11_A.period = 400000
+STR_ES7_ES11_A.minFrameSize = 942
+STR_ES7_ES11_A.maxFrameSize = 1023
+STR_ES7_ES11_A.trafficClass = TC2
+STR_ES7_ES11_A.utility = 2,0
+STR_ES7_ES11_A.path = ES7 SW3 SW1 SW2 ES11
+
+TSN_Stream STR_ES7_ES11_B
+STR_ES7_ES11_B.source = ES7
+STR_ES7_ES11_B.period = 400000
+STR_ES7_ES11_B.minFrameSize = 972
+STR_ES7_ES11_B.maxFrameSize = 1171
+STR_ES7_ES11_B.trafficClass = TC2
+STR_ES7_ES11_B.utility = 2,5
+STR_ES7_ES11_B.path = ES7 SW3 SW2 ES11
+
+TSN_Stream STR_ES7_ES11_C
+STR_ES7_ES11_C.source = ES7
+STR_ES7_ES11_C.period = 400000
+STR_ES7_ES11_C.minFrameSize = 480
+STR_ES7_ES11_C.maxFrameSize = 568
+STR_ES7_ES11_C.trafficClass = TC1
+STR_ES7_ES11_C.utility = 1,1
+STR_ES7_ES11_C.path = ES7 SW3 SW2 ES11
+
+TSN_Stream STR_ES7_ES12
+STR_ES7_ES12.source = ES7
+STR_ES7_ES12.period = 1600000
+STR_ES7_ES12.minFrameSize = 606
+STR_ES7_ES12.maxFrameSize = 1055
+STR_ES7_ES12.trafficClass = TC2
+STR_ES7_ES12.utility = 2,6
+STR_ES7_ES12.path = ES7 SW3 SW1 SW5 ES12
+
+TSN_Stream STR_ES7_ES13
+STR_ES7_ES13.source = ES7
+STR_ES7_ES13.period = 3200000
+STR_ES7_ES13.minFrameSize = 830
+STR_ES7_ES13.maxFrameSize = 978
+STR_ES7_ES13.trafficClass = TC1
+STR_ES7_ES13.utility = 1,4
+STR_ES7_ES13.path = ES7 SW3 SW4 ES13
+
+TSN_Stream STR_ES7_ES14_A
+STR_ES7_ES14_A.source = ES7
+STR_ES7_ES14_A.period = 3200000
+STR_ES7_ES14_A.minFrameSize = 611
+STR_ES7_ES14_A.maxFrameSize = 723
+STR_ES7_ES14_A.trafficClass = TC0
+STR_ES7_ES14_A.utility = 0,0
+STR_ES7_ES14_A.path = ES7 SW3 SW1 SW5 ES14
+
+TSN_Stream STR_ES7_ES14_B
+STR_ES7_ES14_B.source = ES7
+STR_ES7_ES14_B.period = 800000
+STR_ES7_ES14_B.minFrameSize = 190
+STR_ES7_ES14_B.maxFrameSize = 269
+STR_ES7_ES14_B.trafficClass = TC3
+STR_ES7_ES14_B.utility = 2,0
+STR_ES7_ES14_B.path = ES7 SW3 SW4 SW5 ES14
+
+TSN_Stream STR_ES7_ES15
+STR_ES7_ES15.source = ES7
+STR_ES7_ES15.period = 400000
+STR_ES7_ES15.minFrameSize = 294
+STR_ES7_ES15.maxFrameSize = 696
+STR_ES7_ES15.trafficClass = TC1
+STR_ES7_ES15.utility = 1,3
+STR_ES7_ES15.path = ES7 SW3 SW4 ES15
+
+TSN_Stream STR_ES8_ES1_A
+STR_ES8_ES1_A.source = ES8
+STR_ES8_ES1_A.period = 400000
+STR_ES8_ES1_A.minFrameSize = 326
+STR_ES8_ES1_A.maxFrameSize = 460
+STR_ES8_ES1_A.trafficClass = TC5
+STR_ES8_ES1_A.utility = 6,9
+STR_ES8_ES1_A.path = ES8 SW5 SW2 ES1
+
+TSN_Stream STR_ES8_ES1_B
+STR_ES8_ES1_B.source = ES8
+STR_ES8_ES1_B.period = 400000
+STR_ES8_ES1_B.minFrameSize = 513
+STR_ES8_ES1_B.maxFrameSize = 689
+STR_ES8_ES1_B.trafficClass = TC2
+STR_ES8_ES1_B.utility = 2,5
+STR_ES8_ES1_B.path = ES8 SW5 SW1 SW2 ES1
+
+TSN_Stream STR_ES8_ES1_C
+STR_ES8_ES1_C.source = ES8
+STR_ES8_ES1_C.period = 400000
+STR_ES8_ES1_C.minFrameSize = 798
+STR_ES8_ES1_C.maxFrameSize = 1078
+STR_ES8_ES1_C.trafficClass = TC6
+STR_ES8_ES1_C.utility = 6,4
+STR_ES8_ES1_C.path = ES8 SW5 SW1 SW2 ES1
+
+TSN_Stream STR_ES8_ES1_D
+STR_ES8_ES1_D.source = ES8
+STR_ES8_ES1_D.period = 800000
+STR_ES8_ES1_D.minFrameSize = 1325
+STR_ES8_ES1_D.maxFrameSize = 1460
+STR_ES8_ES1_D.trafficClass = TC3
+STR_ES8_ES1_D.utility = 3,0
+STR_ES8_ES1_D.path = ES8 SW5 SW1 SW2 ES1
+
+TSN_Stream STR_ES8_ES3_A
+STR_ES8_ES3_A.source = ES8
+STR_ES8_ES3_A.period = 400000
+STR_ES8_ES3_A.minFrameSize = 541
+STR_ES8_ES3_A.maxFrameSize = 798
+STR_ES8_ES3_A.trafficClass = TC4
+STR_ES8_ES3_A.utility = 4,2
+STR_ES8_ES3_A.path = ES8 SW5 SW1 SW2 ES3
+
+TSN_Stream STR_ES8_ES3_B
+STR_ES8_ES3_B.source = ES8
+STR_ES8_ES3_B.period = 800000
+STR_ES8_ES3_B.minFrameSize = 827
+STR_ES8_ES3_B.maxFrameSize = 1453
+STR_ES8_ES3_B.trafficClass = TC6
+STR_ES8_ES3_B.utility = 6,8
+STR_ES8_ES3_B.path = ES8 SW5 SW1 SW2 ES3
+
+TSN_Stream STR_ES8_ES3_C
+STR_ES8_ES3_C.source = ES8
+STR_ES8_ES3_C.period = 400000
+STR_ES8_ES3_C.minFrameSize = 683
+STR_ES8_ES3_C.maxFrameSize = 928
+STR_ES8_ES3_C.trafficClass = TC5
+STR_ES8_ES3_C.utility = 5,1
+STR_ES8_ES3_C.path = ES8 SW5 SW1 SW2 ES3
+
+TSN_Stream STR_ES8_ES3_D
+STR_ES8_ES3_D.source = ES8
+STR_ES8_ES3_D.period = 400000
+STR_ES8_ES3_D.minFrameSize = 138
+STR_ES8_ES3_D.maxFrameSize = 476
+STR_ES8_ES3_D.trafficClass = TC4
+STR_ES8_ES3_D.utility = 4,2
+STR_ES8_ES3_D.path = ES8 SW5 SW2 ES3
+
+TSN_Stream STR_ES8_ES5_A
+STR_ES8_ES5_A.source = ES8
+STR_ES8_ES5_A.period = 800000
+STR_ES8_ES5_A.minFrameSize = 627
+STR_ES8_ES5_A.maxFrameSize = 942
+STR_ES8_ES5_A.trafficClass = TC6
+STR_ES8_ES5_A.utility = 6,0
+STR_ES8_ES5_A.path = ES8 SW5 SW2 ES5
+
+TSN_Stream STR_ES8_ES5_B
+STR_ES8_ES5_B.source = ES8
+STR_ES8_ES5_B.period = 400000
+STR_ES8_ES5_B.minFrameSize = 580
+STR_ES8_ES5_B.maxFrameSize = 658
+STR_ES8_ES5_B.trafficClass = TC7
+STR_ES8_ES5_B.utility = 7,6
+STR_ES8_ES5_B.path = ES8 SW5 SW2 ES5
+
+TSN_Stream STR_ES8_ES5_C
+STR_ES8_ES5_C.source = ES8
+STR_ES8_ES5_C.period = 1600000
+STR_ES8_ES5_C.minFrameSize = 1250
+STR_ES8_ES5_C.maxFrameSize = 1490
+STR_ES8_ES5_C.trafficClass = TC4
+STR_ES8_ES5_C.utility = 5,9
+STR_ES8_ES5_C.path = ES8 SW5 SW1 SW2 ES5
+
+TSN_Stream STR_ES8_ES5_D
+STR_ES8_ES5_D.source = ES8
+STR_ES8_ES5_D.period = 400000
+STR_ES8_ES5_D.minFrameSize = 780
+STR_ES8_ES5_D.maxFrameSize = 928
+STR_ES8_ES5_D.trafficClass = TC6
+STR_ES8_ES5_D.utility = 7,1
+STR_ES8_ES5_D.path = ES8 SW5 SW2 ES5
+
+TSN_Stream STR_ES8_ES5_E
+STR_ES8_ES5_E.source = ES8
+STR_ES8_ES5_E.period = 200000
+STR_ES8_ES5_E.minFrameSize = 214
+STR_ES8_ES5_E.maxFrameSize = 379
+STR_ES8_ES5_E.trafficClass = TC7
+STR_ES8_ES5_E.utility = 7,8
+STR_ES8_ES5_E.path = ES8 SW5 SW2 ES5
+
+TSN_Stream STR_ES8_ES6_A
+STR_ES8_ES6_A.source = ES8
+STR_ES8_ES6_A.period = 400000
+STR_ES8_ES6_A.minFrameSize = 898
+STR_ES8_ES6_A.maxFrameSize = 1159
+STR_ES8_ES6_A.trafficClass = TC5
+STR_ES8_ES6_A.utility = 6,0
+STR_ES8_ES6_A.path = ES8 SW5 SW4 SW3 ES6
+
+TSN_Stream STR_ES8_ES6_B
+STR_ES8_ES6_B.source = ES8
+STR_ES8_ES6_B.period = 1600000
+STR_ES8_ES6_B.minFrameSize = 1000
+STR_ES8_ES6_B.maxFrameSize = 1453
+STR_ES8_ES6_B.trafficClass = TC6
+STR_ES8_ES6_B.utility = 6,3
+STR_ES8_ES6_B.path = ES8 SW5 SW4 SW3 ES6
+
+TSN_Stream STR_ES8_ES6_C
+STR_ES8_ES6_C.source = ES8
+STR_ES8_ES6_C.period = 400000
+STR_ES8_ES6_C.minFrameSize = 700
+STR_ES8_ES6_C.maxFrameSize = 956
+STR_ES8_ES6_C.trafficClass = TC4
+STR_ES8_ES6_C.utility = 4,4
+STR_ES8_ES6_C.path = ES8 SW5 SW4 SW3 ES6
+
+TSN_Stream STR_ES8_ES7_A
+STR_ES8_ES7_A.source = ES8
+STR_ES8_ES7_A.period = 800000
+STR_ES8_ES7_A.minFrameSize = 874
+STR_ES8_ES7_A.maxFrameSize = 989
+STR_ES8_ES7_A.trafficClass = TC3
+STR_ES8_ES7_A.utility = 4,5
+STR_ES8_ES7_A.path = ES8 SW5 SW1 SW4 SW3 ES7
+
+TSN_Stream STR_ES8_ES7_B
+STR_ES8_ES7_B.source = ES8
+STR_ES8_ES7_B.period = 400000
+STR_ES8_ES7_B.minFrameSize = 548
+STR_ES8_ES7_B.maxFrameSize = 832
+STR_ES8_ES7_B.trafficClass = TC6
+STR_ES8_ES7_B.utility = 6,6
+STR_ES8_ES7_B.path = ES8 SW5 SW1 SW4 SW3 ES7
+
+TSN_Stream STR_ES8_ES7_C
+STR_ES8_ES7_C.source = ES8
+STR_ES8_ES7_C.period = 400000
+STR_ES8_ES7_C.minFrameSize = 768
+STR_ES8_ES7_C.maxFrameSize = 1034
+STR_ES8_ES7_C.trafficClass = TC5
+STR_ES8_ES7_C.utility = 5,8
+STR_ES8_ES7_C.path = ES8 SW5 SW4 SW3 ES7
+
+TSN_Stream STR_ES8_ES7_D
+STR_ES8_ES7_D.source = ES8
+STR_ES8_ES7_D.period = 400000
+STR_ES8_ES7_D.minFrameSize = 890
+STR_ES8_ES7_D.maxFrameSize = 1290
+STR_ES8_ES7_D.trafficClass = TC7
+STR_ES8_ES7_D.utility = 7,3
+STR_ES8_ES7_D.path = ES8 SW5 SW4 SW3 ES7
+
+TSN_Stream STR_ES8_ES7_E
+STR_ES8_ES7_E.source = ES8
+STR_ES8_ES7_E.period = 800000
+STR_ES8_ES7_E.minFrameSize = 1098
+STR_ES8_ES7_E.maxFrameSize = 1470
+STR_ES8_ES7_E.trafficClass = TC3
+STR_ES8_ES7_E.utility = 3,8
+STR_ES8_ES7_E.path = ES8 SW5 SW4 SW3 ES7
+
+TSN_Stream STR_ES8_ES9
+STR_ES8_ES9.source = ES8
+STR_ES8_ES9.period = 1600000
+STR_ES8_ES9.minFrameSize = 144
+STR_ES8_ES9.maxFrameSize = 441
+STR_ES8_ES9.trafficClass = TC5
+STR_ES8_ES9.utility = 4,0
+STR_ES8_ES9.path = ES8 SW5 SW4 ES9
+
+TSN_Stream STR_ES9_ES3
+STR_ES9_ES3.source = ES9
+STR_ES9_ES3.period = 400000
+STR_ES9_ES3.minFrameSize = 373
+STR_ES9_ES3.maxFrameSize = 715
+STR_ES9_ES3.trafficClass = TC4
+STR_ES9_ES3.utility = 4,6
+STR_ES9_ES3.path = ES9 SW4 SW5 SW2 ES3
+
+TSN_Stream STR_ES9_ES5_A
+STR_ES9_ES5_A.source = ES9
+STR_ES9_ES5_A.period = 800000
+STR_ES9_ES5_A.minFrameSize = 942
+STR_ES9_ES5_A.maxFrameSize = 1023
+STR_ES9_ES5_A.trafficClass = TC3
+STR_ES9_ES5_A.utility = 4,2
+STR_ES9_ES5_A.path = ES9 SW4 SW5 SW2 ES5
+
+TSN_Stream STR_ES9_ES5_B
+STR_ES9_ES5_B.source = ES9
+STR_ES9_ES5_B.period = 400000
+STR_ES9_ES5_B.minFrameSize = 732
+STR_ES9_ES5_B.maxFrameSize = 923
+STR_ES9_ES5_B.trafficClass = TC5
+STR_ES9_ES5_B.utility = 6,1
+STR_ES9_ES5_B.path = ES9 SW4 SW1 SW2 ES5
+
+TSN_Stream STR_ES9_ES5_C
+STR_ES9_ES5_C.source = ES9
+STR_ES9_ES5_C.period = 400000
+STR_ES9_ES5_C.minFrameSize = 780
+STR_ES9_ES5_C.maxFrameSize = 990
+STR_ES9_ES5_C.trafficClass = TC6
+STR_ES9_ES5_C.utility = 6,7
+STR_ES9_ES5_C.path = ES9 SW4 SW5 SW2 ES5
+
+TSN_Stream STR_ES9_ES5_D
+STR_ES9_ES5_D.source = ES9
+STR_ES9_ES5_D.period = 400000
+STR_ES9_ES5_D.minFrameSize = 579
+STR_ES9_ES5_D.maxFrameSize = 708
+STR_ES9_ES5_D.trafficClass = TC5
+STR_ES9_ES5_D.utility = 5,5
+STR_ES9_ES5_D.path = ES9 SW4 SW5 SW2 ES5
+
+TSN_Stream STR_ES9_ES7_A
+STR_ES9_ES7_A.source = ES9
+STR_ES9_ES7_A.period = 800000
+STR_ES9_ES7_A.minFrameSize = 742
+STR_ES9_ES7_A.maxFrameSize = 945
+STR_ES9_ES7_A.trafficClass = TC4
+STR_ES9_ES7_A.utility = 4,1
+STR_ES9_ES7_A.path = ES9 SW4 SW1 SW3 ES7
+
+TSN_Stream STR_ES9_ES7_B
+STR_ES9_ES7_B.source = ES9
+STR_ES9_ES7_B.period = 400000
+STR_ES9_ES7_B.minFrameSize = 854
+STR_ES9_ES7_B.maxFrameSize = 1089
+STR_ES9_ES7_B.trafficClass = TC6
+STR_ES9_ES7_B.utility = 7,0
+STR_ES9_ES7_B.path = ES9 SW4 SW3 ES7
+
+TSN_Stream STR_ES9_ES7_C
+STR_ES9_ES7_C.source = ES9
+STR_ES9_ES7_C.period = 1600000
+STR_ES9_ES7_C.minFrameSize = 1309
+STR_ES9_ES7_C.maxFrameSize = 1356
+STR_ES9_ES7_C.trafficClass = TC3
+STR_ES9_ES7_C.utility = 3,9
+STR_ES9_ES7_C.path = ES9 SW4 SW1 SW3 ES7
+
+TSN_Stream STR_ES9_ES7_D
+STR_ES9_ES7_D.source = ES9
+STR_ES9_ES7_D.period = 400000
+STR_ES9_ES7_D.minFrameSize = 645
+STR_ES9_ES7_D.maxFrameSize = 1086
+STR_ES9_ES7_D.trafficClass = TC5
+STR_ES9_ES7_D.utility = 5,4
+STR_ES9_ES7_D.path = ES9 SW4 SW3 ES7
+
+TSN_Stream STR_ES9_ES8
+STR_ES9_ES8.source = ES9
+STR_ES9_ES8.period = 400000
+STR_ES9_ES8.minFrameSize = 160
+STR_ES9_ES8.maxFrameSize = 333
+STR_ES9_ES8.trafficClass = TC3
+STR_ES9_ES8.utility = 3,7
+STR_ES9_ES8.path = ES9 SW4 SW5 ES8
+
+TSN_Stream STR_ES10_ES7
+STR_ES10_ES7.source = ES10
+STR_ES10_ES7.period = 6400000
+STR_ES10_ES7.minFrameSize = 972
+STR_ES10_ES7.maxFrameSize = 1171
+STR_ES10_ES7.trafficClass = TC1
+STR_ES10_ES7.utility = 1,1
+STR_ES10_ES7.path = ES10 SW1 SW3 ES7
+
+TSN_Stream STR_ES10_ES13_A
+STR_ES10_ES13_A.source = ES10
+STR_ES10_ES13_A.period = 400000
+STR_ES10_ES13_A.minFrameSize = 695
+STR_ES10_ES13_A.maxFrameSize = 1101
+STR_ES10_ES13_A.trafficClass = TC0
+STR_ES10_ES13_A.utility = 0,7
+STR_ES10_ES13_A.path = ES10 SW1 SW4 ES13
+
+TSN_Stream STR_ES10_ES13_B
+STR_ES10_ES13_B.source = ES10
+STR_ES10_ES13_B.period = 400000
+STR_ES10_ES13_B.minFrameSize = 451
+STR_ES10_ES13_B.maxFrameSize = 698
+STR_ES10_ES13_B.trafficClass = TC1
+STR_ES10_ES13_B.utility = 1,4
+STR_ES10_ES13_B.path = ES10 SW1 SW4 ES13
+
+TSN_Stream STR_ES10_ES13_C
+STR_ES10_ES13_C.source = ES10
+STR_ES10_ES13_C.period = 800000
+STR_ES10_ES13_C.minFrameSize = 786
+STR_ES10_ES13_C.maxFrameSize = 1152
+STR_ES10_ES13_C.trafficClass = TC0
+STR_ES10_ES13_C.utility = 0,7
+STR_ES10_ES13_C.path = ES10 SW1 SW4 ES13
+
+TSN_Stream STR_ES10_ES15_A
+STR_ES10_ES15_A.source = ES10
+STR_ES10_ES15_A.period = 1600000
+STR_ES10_ES15_A.minFrameSize = 416
+STR_ES10_ES15_A.maxFrameSize = 1213
+STR_ES10_ES15_A.trafficClass = TC1
+STR_ES10_ES15_A.utility = 1,9
+STR_ES10_ES15_A.path = ES10 SW1 SW4 ES15
+
+TSN_Stream STR_ES10_ES15_B
+STR_ES10_ES15_B.source = ES10
+STR_ES10_ES15_B.period = 400000
+STR_ES10_ES15_B.minFrameSize = 586
+STR_ES10_ES15_B.maxFrameSize = 896
+STR_ES10_ES15_B.trafficClass = TC0
+STR_ES10_ES15_B.utility = 0,4
+STR_ES10_ES15_B.path = ES10 SW1 SW4 ES15
+
+TSN_Stream STR_ES10_ES15_C
+STR_ES10_ES15_C.source = ES10
+STR_ES10_ES15_C.period = 400000
+STR_ES10_ES15_C.minFrameSize = 956
+STR_ES10_ES15_C.maxFrameSize = 1285
+STR_ES10_ES15_C.trafficClass = TC1
+STR_ES10_ES15_C.utility = 1,1
+STR_ES10_ES15_C.path = ES10 SW1 SW4 ES15
+
+TSN_Stream STR_ES11_ES7_A
+STR_ES11_ES7_A.source = ES11
+STR_ES11_ES7_A.period = 6400000
+STR_ES11_ES7_A.minFrameSize = 1285
+STR_ES11_ES7_A.maxFrameSize = 1331
+STR_ES11_ES7_A.trafficClass = TC1
+STR_ES11_ES7_A.utility = 1,8
+STR_ES11_ES7_A.path = ES11 SW2 SW5 SW1 SW3 ES7
+
+TSN_Stream STR_ES11_ES7_B
+STR_ES11_ES7_B.source = ES11
+STR_ES11_ES7_B.period = 800000
+STR_ES11_ES7_B.minFrameSize = 775
+STR_ES11_ES7_B.maxFrameSize = 980
+STR_ES11_ES7_B.trafficClass = TC2
+STR_ES11_ES7_B.utility = 2,7
+STR_ES11_ES7_B.path = ES11 SW2 SW3 ES7
+
+TSN_Stream STR_ES11_ES7_C
+STR_ES11_ES7_C.source = ES11
+STR_ES11_ES7_C.period = 400000
+STR_ES11_ES7_C.minFrameSize = 585
+STR_ES11_ES7_C.maxFrameSize = 631
+STR_ES11_ES7_C.trafficClass = TC1
+STR_ES11_ES7_C.utility = 1,4
+STR_ES11_ES7_C.path = ES11 SW2 SW3 ES7
+
+TSN_Stream STR_ES11_ES13_A
+STR_ES11_ES13_A.source = ES11
+STR_ES11_ES13_A.period = 400000
+STR_ES11_ES13_A.minFrameSize = 805
+STR_ES11_ES13_A.maxFrameSize = 1201
+STR_ES11_ES13_A.trafficClass = TC1
+STR_ES11_ES13_A.utility = 1,0
+STR_ES11_ES13_A.path = ES11 SW2 SW5 SW4 ES13
+
+TSN_Stream STR_ES11_ES13_B
+STR_ES11_ES13_B.source = ES11
+STR_ES11_ES13_B.period = 400000
+STR_ES11_ES13_B.minFrameSize = 546
+STR_ES11_ES13_B.maxFrameSize = 846
+STR_ES11_ES13_B.trafficClass = TC2
+STR_ES11_ES13_B.utility = 2,6
+STR_ES11_ES13_B.path = ES11 SW2 SW3 SW4 ES13
+
+TSN_Stream STR_ES11_ES13_C
+STR_ES11_ES13_C.source = ES11
+STR_ES11_ES13_C.period = 800000
+STR_ES11_ES13_C.minFrameSize = 908
+STR_ES11_ES13_C.maxFrameSize = 1045
+STR_ES11_ES13_C.trafficClass = TC1
+STR_ES11_ES13_C.utility = 2,1
+STR_ES11_ES13_C.path = ES11 SW2 SW1 SW4 ES13
+
+TSN_Stream STR_ES11_ES13_D
+STR_ES11_ES13_D.source = ES11
+STR_ES11_ES13_D.period = 1600000
+STR_ES11_ES13_D.minFrameSize = 980
+STR_ES11_ES13_D.maxFrameSize = 1389
+STR_ES11_ES13_D.trafficClass = TC1
+STR_ES11_ES13_D.utility = 1,9
+STR_ES11_ES13_D.path = ES11 SW2 SW1 SW4 ES13
+
+TSN_Stream STR_ES11_ES14_A
+STR_ES11_ES14_A.source = ES11
+STR_ES11_ES14_A.period = 800000
+STR_ES11_ES14_A.minFrameSize = 905
+STR_ES11_ES14_A.maxFrameSize = 1401
+STR_ES11_ES14_A.trafficClass = TC0
+STR_ES11_ES14_A.utility = 0,9
+STR_ES11_ES14_A.path = ES11 SW2 SW1 SW5 ES14
+
+TSN_Stream STR_ES11_ES14_B
+STR_ES11_ES14_B.source = ES11
+STR_ES11_ES14_B.period = 400000
+STR_ES11_ES14_B.minFrameSize = 876
+STR_ES11_ES14_B.maxFrameSize = 1230
+STR_ES11_ES14_B.trafficClass = TC1
+STR_ES11_ES14_B.utility = 1,6
+STR_ES11_ES14_B.path = ES11 SW2 SW1 SW5 ES14
+
+TSN_Stream STR_ES11_ES14_C
+STR_ES11_ES14_C.source = ES11
+STR_ES11_ES14_C.period = 6400000
+STR_ES11_ES14_C.minFrameSize = 1450
+STR_ES11_ES14_C.maxFrameSize = 1490
+STR_ES11_ES14_C.trafficClass = TC2
+STR_ES11_ES14_C.utility = 2,8
+STR_ES11_ES14_C.path = ES11 SW2 SW1 SW5 ES14
+
+TSN_Stream STR_ES12_ES7_A
+STR_ES12_ES7_A.source = ES12
+STR_ES12_ES7_A.period = 1600000
+STR_ES12_ES7_A.minFrameSize = 949
+STR_ES12_ES7_A.maxFrameSize = 1122
+STR_ES12_ES7_A.trafficClass = TC2
+STR_ES12_ES7_A.utility = 2,3
+STR_ES12_ES7_A.path = ES12 SW5 SW4 SW3 ES7
+
+TSN_Stream STR_ES12_ES7_B
+STR_ES12_ES7_B.source = ES12
+STR_ES12_ES7_B.period = 400000
+STR_ES12_ES7_B.minFrameSize = 1078
+STR_ES12_ES7_B.maxFrameSize = 1390
+STR_ES12_ES7_B.trafficClass = TC1
+STR_ES12_ES7_B.utility = 1,3
+STR_ES12_ES7_B.path = ES12 SW5 SW2 SW3 ES7
+
+TSN_Stream STR_ES12_ES7_C
+STR_ES12_ES7_C.source = ES12
+STR_ES12_ES7_C.period = 400000
+STR_ES12_ES7_C.minFrameSize = 870
+STR_ES12_ES7_C.maxFrameSize = 976
+STR_ES12_ES7_C.trafficClass = TC0
+STR_ES12_ES7_C.utility = 0,4
+STR_ES12_ES7_C.path = ES12 SW5 SW4 SW1 SW3 ES7
+
+TSN_Stream STR_ES12_ES13_A
+STR_ES12_ES13_A.source = ES12
+STR_ES12_ES13_A.period = 3200000
+STR_ES12_ES13_A.minFrameSize = 486
+STR_ES12_ES13_A.maxFrameSize = 912
+STR_ES12_ES13_A.trafficClass = TC3
+STR_ES12_ES13_A.utility = 3,0
+STR_ES12_ES13_A.path = ES12 SW5 SW4 ES13
+
+TSN_Stream STR_ES12_ES13_B
+STR_ES12_ES13_B.source = ES12
+STR_ES12_ES13_B.period = 400000
+STR_ES12_ES13_B.minFrameSize = 567
+STR_ES12_ES13_B.maxFrameSize = 1356
+STR_ES12_ES13_B.trafficClass = TC2
+STR_ES12_ES13_B.utility = 2,9
+STR_ES12_ES13_B.path = ES12 SW5 SW4 ES13
+
+TSN_Stream STR_ES12_ES13_C
+STR_ES12_ES13_C.source = ES12
+STR_ES12_ES13_C.period = 400000
+STR_ES12_ES13_C.minFrameSize = 769
+STR_ES12_ES13_C.maxFrameSize = 1034
+STR_ES12_ES13_C.trafficClass = TC1
+STR_ES12_ES13_C.utility = 1,1
+STR_ES12_ES13_C.path = ES12 SW5 SW1 SW4 ES13
+
+TSN_Stream STR_ES13_ES3_A
+STR_ES13_ES3_A.source = ES13
+STR_ES13_ES3_A.period = 400000
+STR_ES13_ES3_A.minFrameSize = 689
+STR_ES13_ES3_A.maxFrameSize = 854
+STR_ES13_ES3_A.trafficClass = TC1
+STR_ES13_ES3_A.utility = 1,5
+STR_ES13_ES3_A.path = ES13 SW4 SW5 SW1 SW2 ES3
+
+TSN_Stream STR_ES13_ES3_B
+STR_ES13_ES3_B.source = ES13
+STR_ES13_ES3_B.period = 800000
+STR_ES13_ES3_B.minFrameSize = 952
+STR_ES13_ES3_B.maxFrameSize = 1245
+STR_ES13_ES3_B.trafficClass = TC1
+STR_ES13_ES3_B.utility = 1,3
+STR_ES13_ES3_B.path = ES13 SW4 SW5 SW1 SW2 ES3
+
+TSN_Stream STR_ES13_ES3_C
+STR_ES13_ES3_C.source = ES13
+STR_ES13_ES3_C.period = 400000
+STR_ES13_ES3_C.minFrameSize = 588
+STR_ES13_ES3_C.maxFrameSize = 866
+STR_ES13_ES3_C.trafficClass = TC1
+STR_ES13_ES3_C.utility = 1,6
+STR_ES13_ES3_C.path = ES13 SW4 SW5 SW2 ES3
+
+TSN_Stream STR_ES13_ES3_D
+STR_ES13_ES3_D.source = ES13
+STR_ES13_ES3_D.period = 3200000
+STR_ES13_ES3_D.minFrameSize = 1120
+STR_ES13_ES3_D.maxFrameSize = 1452
+STR_ES13_ES3_D.trafficClass = TC1
+STR_ES13_ES3_D.utility = 1,4
+STR_ES13_ES3_D.path = ES13 SW4 SW1 SW2 ES3
+
+TSN_Stream STR_ES13_ES7_A
+STR_ES13_ES7_A.source = ES13
+STR_ES13_ES7_A.period = 400000
+STR_ES13_ES7_A.minFrameSize = 475
+STR_ES13_ES7_A.maxFrameSize = 812
+STR_ES13_ES7_A.trafficClass = TC2
+STR_ES13_ES7_A.utility = 2,2
+STR_ES13_ES7_A.path = ES13 SW4 SW3 ES7
+
+TSN_Stream STR_ES13_ES7_B
+STR_ES13_ES7_B.source = ES13
+STR_ES13_ES7_B.period = 800000
+STR_ES13_ES7_B.minFrameSize = 879
+STR_ES13_ES7_B.maxFrameSize = 1059
+STR_ES13_ES7_B.trafficClass = TC2
+STR_ES13_ES7_B.utility = 2,8
+STR_ES13_ES7_B.path = ES13 SW4 SW1 SW3 ES7
+
+TSN_Stream STR_ES13_ES7_C
+STR_ES13_ES7_C.source = ES13
+STR_ES13_ES7_C.period = 400000
+STR_ES13_ES7_C.minFrameSize = 654
+STR_ES13_ES7_C.maxFrameSize = 826
+STR_ES13_ES7_C.trafficClass = TC2
+STR_ES13_ES7_C.utility = 2,9
+STR_ES13_ES7_C.path = ES13 SW4 SW1 SW3 ES7
+
+TSN_Stream STR_ES13_ES10_A
+STR_ES13_ES10_A.source = ES13
+STR_ES13_ES10_A.period = 1600000
+STR_ES13_ES10_A.minFrameSize = 718
+STR_ES13_ES10_A.maxFrameSize = 864
+STR_ES13_ES10_A.trafficClass = TC0
+STR_ES13_ES10_A.utility = 0,1
+STR_ES13_ES10_A.path = ES13 SW4 SW1 ES10
+
+TSN_Stream STR_ES13_ES10_B
+STR_ES13_ES10_B.source = ES13
+STR_ES13_ES10_B.period = 400000
+STR_ES13_ES10_B.minFrameSize = 852
+STR_ES13_ES10_B.maxFrameSize = 978
+STR_ES13_ES10_B.trafficClass = TC0
+STR_ES13_ES10_B.utility = 0,8
+STR_ES13_ES10_B.path = ES13 SW4 SW1 ES10
+
+TSN_Stream STR_ES13_ES10_C
+STR_ES13_ES10_C.source = ES13
+STR_ES13_ES10_C.period = 400000
+STR_ES13_ES10_C.minFrameSize = 547
+STR_ES13_ES10_C.maxFrameSize = 1389
+STR_ES13_ES10_C.trafficClass = TC1
+STR_ES13_ES10_C.utility = 1,7
+STR_ES13_ES10_C.path = ES13 SW4 SW1 ES10
+
+TSN_Stream STR_ES13_ES11_A
+STR_ES13_ES11_A.source = ES13
+STR_ES13_ES11_A.period = 400000
+STR_ES13_ES11_A.minFrameSize = 456
+STR_ES13_ES11_A.maxFrameSize = 1238
+STR_ES13_ES11_A.trafficClass = TC1
+STR_ES13_ES11_A.utility = 1,1
+STR_ES13_ES11_A.path = ES13 SW4 SW1 SW2 ES11
+
+TSN_Stream STR_ES13_ES11_B
+STR_ES13_ES11_B.source = ES13
+STR_ES13_ES11_B.period = 200000
+STR_ES13_ES11_B.minFrameSize = 612
+STR_ES13_ES11_B.maxFrameSize = 1409
+STR_ES13_ES11_B.trafficClass = TC0
+STR_ES13_ES11_B.utility = 0,3
+STR_ES13_ES11_B.path = ES13 SW4 SW5 SW2 ES11
+
+TSN_Stream STR_ES13_ES12_A
+STR_ES13_ES12_A.source = ES13
+STR_ES13_ES12_A.period = 400000
+STR_ES13_ES12_A.minFrameSize = 441
+STR_ES13_ES12_A.maxFrameSize = 662
+STR_ES13_ES12_A.trafficClass = TC2
+STR_ES13_ES12_A.utility = 2,4
+STR_ES13_ES12_A.path = ES13 SW4 SW1 SW5 ES12
+
+TSN_Stream STR_ES13_ES12_B
+STR_ES13_ES12_B.source = ES13
+STR_ES13_ES12_B.period = 400000
+STR_ES13_ES12_B.minFrameSize = 985
+STR_ES13_ES12_B.maxFrameSize = 1158
+STR_ES13_ES12_B.trafficClass = TC0
+STR_ES13_ES12_B.utility = 0,0
+STR_ES13_ES12_B.path = ES13 SW4 SW1 SW5 ES12
+
+TSN_Stream STR_ES13_ES12_C
+STR_ES13_ES12_C.source = ES13
+STR_ES13_ES12_C.period = 400000
+STR_ES13_ES12_C.minFrameSize = 689
+STR_ES13_ES12_C.maxFrameSize = 936
+STR_ES13_ES12_C.trafficClass = TC1
+STR_ES13_ES12_C.utility = 1,2
+STR_ES13_ES12_C.path = ES13 SW4 SW1 SW5 ES12
+
+TSN_Stream STR_ES13_ES15_A
+STR_ES13_ES15_A.source = ES13
+STR_ES13_ES15_A.period = 400000
+STR_ES13_ES15_A.minFrameSize = 813
+STR_ES13_ES15_A.maxFrameSize = 1420
+STR_ES13_ES15_A.trafficClass = TC1
+STR_ES13_ES15_A.utility = 1,0
+STR_ES13_ES15_A.path = ES13 SW4 ES15
+
+TSN_Stream STR_ES13_ES15_B
+STR_ES13_ES15_B.source = ES13
+STR_ES13_ES15_B.period = 400000
+STR_ES13_ES15_B.minFrameSize = 722
+STR_ES13_ES15_B.maxFrameSize = 1328
+STR_ES13_ES15_B.trafficClass = TC0
+STR_ES13_ES15_B.utility = 0,7
+STR_ES13_ES15_B.path = ES13 SW4 ES15
+
+TSN_Stream STR_ES13_ES15_C
+STR_ES13_ES15_C.source = ES13
+STR_ES13_ES15_C.period = 400000
+STR_ES13_ES15_C.minFrameSize = 157
+STR_ES13_ES15_C.maxFrameSize = 536
+STR_ES13_ES15_C.trafficClass = TC0
+STR_ES13_ES15_C.utility = 0,6
+STR_ES13_ES15_C.path = ES13 SW4 ES15
+
+TSN_Stream STR_ES14_ES1_A
+STR_ES14_ES1_A.source = ES14
+STR_ES14_ES1_A.period = 400000
+STR_ES14_ES1_A.minFrameSize = 1290
+STR_ES14_ES1_A.maxFrameSize = 1503
+STR_ES14_ES1_A.trafficClass = TC1
+STR_ES14_ES1_A.utility = 1,9
+STR_ES14_ES1_A.path = ES14 SW5 SW1 ES5
+
+TSN_Stream STR_ES14_ES1_B
+STR_ES14_ES1_B.source = ES14
+STR_ES14_ES1_B.period = 800000
+STR_ES14_ES1_B.minFrameSize = 1345
+STR_ES14_ES1_B.maxFrameSize = 1478
+STR_ES14_ES1_B.trafficClass = TC0
+STR_ES14_ES1_B.utility = 0,1
+STR_ES14_ES1_B.path = ES14 SW5 SW1 ES5
+
+TSN_Stream STR_ES14_ES1_C
+STR_ES14_ES1_C.source = ES14
+STR_ES14_ES1_C.period = 400000
+STR_ES14_ES1_C.minFrameSize = 990
+STR_ES14_ES1_C.maxFrameSize = 1007
+STR_ES14_ES1_C.trafficClass = TC1
+STR_ES14_ES1_C.utility = 1,0
+STR_ES14_ES1_C.path = ES14 SW5 SW1 ES5
+
+TSN_Stream STR_ES14_ES5_A
+STR_ES14_ES5_A.source = ES14
+STR_ES14_ES5_A.period = 400000
+STR_ES14_ES5_A.minFrameSize = 617
+STR_ES14_ES5_A.maxFrameSize = 988
+STR_ES14_ES5_A.trafficClass = TC1
+STR_ES14_ES5_A.utility = 1,9
+STR_ES14_ES5_A.path = ES14 SW5 SW2 ES5
+
+TSN_Stream STR_ES14_ES5_B
+STR_ES14_ES5_B.source = ES14
+STR_ES14_ES5_B.period = 400000
+STR_ES14_ES5_B.minFrameSize = 920
+STR_ES14_ES5_B.maxFrameSize = 970
+STR_ES14_ES5_B.trafficClass = TC0
+STR_ES14_ES5_B.utility = 0,4
+STR_ES14_ES5_B.path = ES14 SW5 SW2 ES5
+
+TSN_Stream STR_ES14_ES5_C
+STR_ES14_ES5_C.source = ES14
+STR_ES14_ES5_C.period = 800000
+STR_ES14_ES5_C.minFrameSize = 1280
+STR_ES14_ES5_C.maxFrameSize = 1378
+STR_ES14_ES5_C.trafficClass = TC1
+STR_ES14_ES5_C.utility = 1,1
+STR_ES14_ES5_C.path = ES14 SW5 SW2 ES5
+
+TSN_Stream STR_ES14_ES7_A
+STR_ES14_ES7_A.source = ES14
+STR_ES14_ES7_A.period = 400000
+STR_ES14_ES7_A.minFrameSize = 549
+STR_ES14_ES7_A.maxFrameSize = 809
+STR_ES14_ES7_A.trafficClass = TC3
+STR_ES14_ES7_A.utility = 2,6
+STR_ES14_ES7_A.path = ES14 SW5 SW2 SW3 ES7
+
+TSN_Stream STR_ES14_ES7_B
+STR_ES14_ES7_B.source = ES14
+STR_ES14_ES7_B.period = 800000
+STR_ES14_ES7_B.minFrameSize = 908
+STR_ES14_ES7_B.maxFrameSize = 946
+STR_ES14_ES7_B.trafficClass = TC2
+STR_ES14_ES7_B.utility = 1,7
+STR_ES14_ES7_B.path = ES14 SW5 SW4 SW3 ES7
+
+TSN_Stream STR_ES15_ES7
+STR_ES15_ES7.source = ES15
+STR_ES15_ES7.period = 400000
+STR_ES15_ES7.minFrameSize = 845
+STR_ES15_ES7.maxFrameSize = 1266
+STR_ES15_ES7.trafficClass = TC1
+STR_ES15_ES7.utility = 1,3
+STR_ES15_ES7.path = ES15 SW4 SW1 SW3 ES7
+
+TSN_Stream STR_ES15_ES10_A
+STR_ES15_ES10_A.source = ES15
+STR_ES15_ES10_A.period = 400000
+STR_ES15_ES10_A.minFrameSize = 788
+STR_ES15_ES10_A.maxFrameSize = 1467
+STR_ES15_ES10_A.trafficClass = TC1
+STR_ES15_ES10_A.utility = 1,8
+STR_ES15_ES10_A.path = ES15 SW4 SW3 SW1 ES10
+
+TSN_Stream STR_ES15_ES10_B
+STR_ES15_ES10_B.source = ES15
+STR_ES15_ES10_B.period = 200000
+STR_ES15_ES10_B.minFrameSize = 912
+STR_ES15_ES10_B.maxFrameSize = 1358
+STR_ES15_ES10_B.trafficClass = TC0
+STR_ES15_ES10_B.utility = 0,5
+STR_ES15_ES10_B.path = ES15 SW4 SW1 ES10
+
+TSN_Stream STR_ES15_ES13_A
+STR_ES15_ES13_A.source = ES15
+STR_ES15_ES13_A.period = 400000
+STR_ES15_ES13_A.minFrameSize = 440
+STR_ES15_ES13_A.maxFrameSize = 1013
+STR_ES15_ES13_A.trafficClass = TC1
+STR_ES15_ES13_A.utility = 1,2
+STR_ES15_ES13_A.path = ES15 SW4 ES13
+
+TSN_Stream STR_ES15_ES13_B
+STR_ES15_ES13_B.source = ES15
+STR_ES15_ES13_B.period = 400000
+STR_ES15_ES13_B.minFrameSize = 812
+STR_ES15_ES13_B.maxFrameSize = 1490
+STR_ES15_ES13_B.trafficClass = TC0
+STR_ES15_ES13_B.utility = 0,6
+STR_ES15_ES13_B.path = ES15 SW4 ES13
+
+TSN_Stream STR_ES15_ES13_C
+STR_ES15_ES13_C.source = ES15
+STR_ES15_ES13_C.period = 400000
+STR_ES15_ES13_C.minFrameSize = 756
+STR_ES15_ES13_C.maxFrameSize = 1278
+STR_ES15_ES13_C.trafficClass = TC0
+STR_ES15_ES13_C.utility = 0,3
+STR_ES15_ES13_C.path = ES15 SW4 ES13
+
+TSN_Stream STR_ES15_ES13_D
+STR_ES15_ES13_D.source = ES15
+STR_ES15_ES13_D.period = 400000
+STR_ES15_ES13_D.minFrameSize = 472
+STR_ES15_ES13_D.maxFrameSize = 1380
+STR_ES15_ES13_D.trafficClass = TC1
+STR_ES15_ES13_D.utility = 1,9
+STR_ES15_ES13_D.path = ES15 SW4 ES13
+
+TSN_Stream STR_ES15_ES14_A
+STR_ES15_ES14_A.source = ES15
+STR_ES15_ES14_A.period = 400000
+STR_ES15_ES14_A.minFrameSize = 880
+STR_ES15_ES14_A.maxFrameSize = 1490
+STR_ES15_ES14_A.trafficClass = TC2
+STR_ES15_ES14_A.utility = 2,5
+STR_ES15_ES14_A.path = ES15 SW4 SW5 ES14
+
+TSN_Stream STR_ES15_ES14_B
+STR_ES15_ES14_B.source = ES15
+STR_ES15_ES14_B.period = 400000
+STR_ES15_ES14_B.minFrameSize = 930
+STR_ES15_ES14_B.maxFrameSize = 1290
+STR_ES15_ES14_B.trafficClass = TC1
+STR_ES15_ES14_B.utility = 1,7
+STR_ES15_ES14_B.path = ES15 SW4 SW1 SW5 ES14
